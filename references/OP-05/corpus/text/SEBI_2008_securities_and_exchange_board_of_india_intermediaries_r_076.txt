@@ -1,0 +1,40 @@
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s03537]
+Each intermediary shall prominently display a photocopy of the certificate at all its offices including branch offices. The intermediary shall also prominently display the name and contact details of the compliance officer to whom complaint may be made in the event of any investor grievance.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s03820]
+A request for prior approval, under clause (a) of sub regulation (1) which is complete in all respects shall be disposed off by the Board within a period of sixty days from the date of receipt of such request and where the decision of the Board has not been communicated to the intermediary within the said period of sixty days, the prior approval shall be deemed to have been granted.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s09145]
+Where an application is rejected for the reason that it contains false or misleading information, no such opportunity may be given and the applicant shall not make any application for grant of certificate under these regulations or any other regulations for a period of one year from the date of such rejection.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s14855]
+Subject to compliance with the provisions of the Act, these regulations and the relevant regulations, the certificate granted to an intermediary shall be permanent unless surrendered by the intermediary or suspended or cancelled in accordance with these regulations.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s29925]
+Passage A:
+Subject to compliance with the provisions of the Act, these regulations and the relevant regulations, the certificate granted to an intermediary shall be permanent unless surrendered by the intermediary or suspended or cancelled in accordance with these regulations.
+
+Passage B:
+Where the certificate was granted for a specified period, an application for grant of certificate under sub-regulation (1) shall be made by the intermediary at least three months prior to the expiry of such period.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s38259]
+Passage A:
+The provisions of Chapters V and VI of these regulations shall come into force on the date of publication of these regulations in the Official Gazette.
+
+Passage B:
+These regulations may be called the Securities and Exchange Board of India (Intermediaries) Regulations, 2008. They shall come into force in relation to different classes of intermediaries on such dates as the Board may by notification in the Official Gazette appoint.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s43485]
+The stock exchange, the clearing corporation, the depository or the specified self regulatory organization, as the case may be, shall examine the eligibility of the applicant in terms of these regulations, relevant regulations and the rules, regulations or bye-laws of the concerned stock exchange, clearing corporation, depository or the self regulatory organization and forward the application with the application fees to the Board along with its recommendation as early as possible but not later than thirty days of receipt of the complete application with the specified application fees.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s44799]
+The intermediary shall make endeavours to redress investor grievances promptly but not later than forty-five days of receipt thereof and when called upon by the Board to do so, shall furnish the details of such complaint and action taken therefor to the Board within the time specified by the Board.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s72547]
+Where the certificate was granted for a specified period, an application for grant of certificate under sub-regulation (1) shall be made by the intermediary at least three months prior to the expiry of such period or three months prior to expiry of two years from the commencement of these regulations in relation to such intermediary, whichever is earlier and if the intermediary fails to do so, it shall cease to act as an intermediary on and from the expiry of the aforementioned period.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s76587]
+Where a certificate has been granted to an intermediary on a permanent basis, the certificate may continue to be valid under these regulations subject to the condition that the intermediary shall, within two years of commencement of these regulations in relation to such intermediary, furnish the information in Form A to the Board and upload the information in Part I thereof on the website specified by the Board: Provided that the time specified in clause (b) may be extended by the Board up to a period of six months on sufficient reasons being shown by the intermediary.
+
+[SEBI_2008_securities_and_exchange_board_of_india_intermediaries_r_076#s79874]
+Any material change in the information furnished or uploaded under these regulations shall be updated by the intermediary promptly but not later than fifteen days of the occurrence of such change.

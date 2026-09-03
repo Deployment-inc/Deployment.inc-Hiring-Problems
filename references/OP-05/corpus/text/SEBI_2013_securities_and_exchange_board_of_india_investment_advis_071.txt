@@ -1,0 +1,137 @@
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s02099]
+Regulation 15(1): An investment adviser shall act in a fiduciary capacity towards its clients and shall disclose all conflicts of interests as and when they arise.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s05992]
+Regulation 13(e): individuals registered as investment advisers whose number of clients exceed three hundred at any point of time or the fee collected during the financial year exceeds three crore rupees, whichever is earlier shall — (i) immediately intimate the Administration and Supervisory Body and initiate the process of transition from individual to non-individual investment adviser.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s08503]
+Regulation 10: The certificate of registration granted under regulation 9 shall be valid till it is suspended or cancelled by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s09634]
+Regulation 4(f): Any member of Institute of Chartered Accountants of India, Institute of Company Secretaries of India, Institute of Cost and Works Accountants of India, Actuarial Society of India or any other professional body as may be specified by the Board, who provides investment advice to their clients, incidental to his professional service.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s12286]
+Passage A:
+Regulation 8 (pre-2024): (1) Investment advisers who are non-individuals shall have a net worth of not less than fifty lakh rupees. (2) Investment advisers who are individuals shall have net tangible assets of value not less than five lakh rupees.
+
+Passage B:
+Regulation 8 (as substituted by SEBI (Investment Advisers) (Second Amendment) Regulations, 2024, w.e.f. 16-12-2024): (1) An investment adviser shall maintain a deposit of such sum, as specified by the Board from time to time. (2) The deposit shall be maintained in such a form or manner as may be specified by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s14712]
+Regulation 28A(1): The Board may, exempt any person or class of persons from the operation of all or any of the provisions of these regulations for a period as may be specified but not exceeding twelve months, for furthering innovation relating to testing new products, processes, services, business models, etc. in live environment of regulatory sandbox in the securities markets.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s15394]
+Passage A:
+Regulation 10 (original, 2013): The certificate of registration granted under regulation 9 shall be valid for a period of five years from the date of its issue.
+
+Passage B:
+Regulation 10 (as amended by the SEBI (Change in Conditions of Registration of Certain Intermediaries) (Amendment) Regulations, 2016, w.e.f. 08-12-2016): The certificate of registration granted under regulation 9 shall be valid till it is suspended or cancelled by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s15707]
+Regulation 21(1): The Investment Adviser shall redress investor grievances promptly but not later than twenty-one calendar days from the date of receipt of the grievance and in such manner as may be specified by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s23208]
+Passage A:
+Regulation 22 (original, 2013): Investment advisers which are banks, NBFCs and body corporate providing distribution or execution services to their clients shall keep their investment advisory services segregated from such activities: Provided that such distribution or execution services can only be offered subject to the following: (a) The client shall not be under any obligation to avail the distribution or execution services offered by the investment adviser. (b) The investment adviser shall maintain arms length relationship between its activities as investment adviser and distribution or execution services. (c) All fees and charges paid to distribution or execution service providers by the client shall be paid directly to the service providers and not through the investment adviser.
+
+Passage B:
+Regulation 22 (as substituted by SEBI (Investment Advisers) (Amendment) Regulations, 2020, w.e.f. 30-09-2020): (1) An individual investment adviser shall not provide distribution services. (2) The family of an individual investment adviser shall not provide distribution services to the client advised by the individual investment adviser and no individual investment adviser shall provide advice to a client who is receiving distribution services from other family members. (3) A non-individual investment adviser shall have client level segregation at group level for investment advisory and distribution services.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s26186]
+Regulation 15(2): An investment adviser shall not receive any consideration by way of remuneration or compensation or in any other form from any person other than the client being advised, in respect of the underlying products or securities for which advice is provided.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s32586]
+Regulation 13(h) (inserted by SEBI (Investment Advisers) (Second Amendment) Regulations, 2024, w.e.f. 16-12-2024): the number of clients of a part-time investment adviser shall not exceed seventy-five in total at any point of time. Regulation 2(1)(qa) (inserted w.e.f. 16-12-2024): 'part-time investment adviser' means an individual or a firm, who for consideration, is engaged in the business of providing investment advice and is also engaged in any other business activity or employment.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s32939]
+Regulation 22(1): An individual investment adviser shall not provide distribution services. (2) The family of an individual investment adviser shall not provide distribution services to the client advised by the individual investment adviser and no individual investment adviser shall provide advice to a client who is receiving distribution services from other family members.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s33899]
+Regulation 3(1): On and from the commencement of these regulations, no person shall act as an investment adviser or hold itself out as an investment adviser unless he has obtained a certificate of registration from the Board under these regulations.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s35998]
+Regulation 19(2): All records shall be maintained either in physical or electronic form and preserved for a minimum period of five years.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s37011]
+Regulation 21(1): The Investment Adviser shall redress investor grievances promptly but not later than twenty-one calendar days from the date of receipt of the grievance.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s38844]
+Regulation 13(e): individuals registered as investment advisers whose number of clients exceed three hundred at any point of time or the fee collected during the financial year exceeds three crore rupees, whichever is earlier shall immediately initiate the process of transition from individual to non-individual investment adviser.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s40568]
+Passage A:
+Regulation 7(1)(a) (pre-2025): A professional qualification or graduate degree or post-graduate degree or post graduate diploma (minimum two years in duration) in finance, accountancy, business management, commerce, economics, capital market, banking, insurance or actuarial science or other financial services as may be specified from a university or an institution recognized by the Central Government or any State Government or a recognised foreign university or institution or association or a professional qualification by completing a Post Graduate Program in the Securities Market (Investment Advisory) from NISM of a duration not less than one year or a professional qualification by obtaining a CFA Charter from the CFA Institute.
+
+Passage B:
+Regulation 7(1)(a) (as substituted w.e.f. 25-11-2025): A graduate degree or any equivalent educational qualification from a university or institution recognized by the Central Government or any State Government or a recognised foreign university or institution or association or CFA Charter from the CFA Institute, and relevant certification from NISM or from any other organization or institution accredited by NISM.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s43406]
+Regulation 4: The following persons shall not be required to seek registration under regulation 3 subject to the fulfillment of the conditions stipulated therefor — (b) Any insurance agent or insurance broker who offers investment advice solely in insurance products and is registered with Insurance Regulatory and Development Authority for such activity.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s45526]
+Regulation 15(14) (inserted by SEBI (Investment Advisers) (Second Amendment) Regulations, 2024, w.e.f. 16-12-2024): An investment adviser who uses Artificial Intelligence tools, irrespective of the scale and scenario of adoption of such tools, for servicing its clients shall be solely responsible for the security, confidentiality, integrity of the client data, use of any other information or data to arrive at investment advice, investment advice based on output of Artificial Intelligence tools and compliance with any law for the time being in force.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s48522]
+Regulation 4(i): Any person who provides investment advice exclusively to clients based out of India: Provided that persons providing investment advice to Non-Resident Indian or Person of Indian Origin shall fall within the purview of these regulations.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s48755]
+Regulation 10 (original, 2013): The certificate of registration granted under regulation 9 shall be valid for a period of five years from the date of its issue. [Amended by SEBI (Change in Conditions of Registration of Certain Intermediaries) (Amendment) Regulations, 2016, w.e.f. 08-12-2016]: The certificate of registration granted under regulation 9 shall be valid till it is suspended or cancelled by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s52001]
+Passage A:
+Regulation 2(1)(r) (original, pre-2020): 'representative' means an employee or an agent of an investment adviser who renders investment advice on behalf of that investment adviser.
+
+Passage B:
+Regulation 2(1)(r) (as substituted w.e.f. 30-09-2020): 'persons associated with investment advice' shall mean any member, partner, officer, director or employee or any sales staff of such investment adviser including any person occupying a similar status or performing a similar function irrespective of the nature of association with the investment adviser who is engaged in providing investment advisory services to the clients of the investment adviser. Explanation — All client-facing persons such as sales staff, service relationship managers, client relationship managers, etc., by whatever name called shall be deemed to be persons associated with investment advice, but do not include persons who discharge clerical or office administrative functions where there is no client interface.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s52053]
+Regulation 19(2): All records shall be maintained either in physical or electronic form and preserved for a minimum period of five years: Provided that where records are required to be duly signed and are maintained in electronic form, such records shall be digitally signed.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s54082]
+These regulations shall come into force on the ninetieth day from the date of their publication in the Official Gazette.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s59639]
+Regulation 13(e) (as amended w.e.f. 25-11-2025 by SEBI (Investment Advisers) (Second Amendment) Regulations, 2025): individuals registered as investment advisers whose number of clients exceed three hundred at any point of time or the fee collected during the financial year exceeds three crore rupees, whichever is earlier shall — (i) immediately intimate the Administration and Supervisory Body and initiate the process of transition from individual to non-individual investment adviser; and (ii) apply for grant of in-principle approval for registration as non-individual investment adviser within 3 months from the date on which the threshold is reached. [Prior to this amendment, per the 2020 version]: individuals... shall — (i) apply for grant of in-principle registration as non-individual investment adviser; (ii) the in-principle registration shall be valid for a period of three months.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s59957]
+Regulation 7(1): An individual investment adviser or a principal officer of a non-individual investment adviser registered as an investment adviser under these regulations or persons associated with investment advice, shall have the following minimum qualification, at all times — (a) A graduate degree or any equivalent educational qualification from a university or institution recognized by the Central Government or any State Government or a recognised foreign university or institution or association or CFA Charter from the CFA Institute, and relevant certification from NISM or from any other organization or institution accredited by NISM; or (c) A Post Graduate Program in the Securities Market (Investment Advisory) from NISM or a Post Graduate Program in Financial Planning from NISM or any other program of NISM as may be specified by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s59985]
+Regulation 15(7): An investment advisor shall not enter into transactions on its own account which is contrary to its advice given to clients for a period of fifteen days from the day of such advice. Provided that during the period of such fifteen days, if the investment adviser is of the opinion that the situation has changed, then it may enter into such a transaction on its own account after giving such revised assessment to the client at least 24 hours in advance of entering into such transaction.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s61227]
+Regulation 21(1) (original, pre-2023): An investment adviser shall redress client grievances promptly. [As amended by SEBI (Facilitation of Grievance Redressal Mechanism) (Amendment) Regulations, 2023, w.e.f. 18-08-2023]: The Investment Adviser shall redress investor grievances promptly but not later than twenty-one calendar days from the date of receipt of the grievance and in such manner as may be specified by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s72338]
+Regulation 8 (Networth, pre-2024): (1) Investment advisers who are non-individuals shall have a net worth of not less than fifty lakh rupees. (2) Investment advisers who are individuals shall have net tangible assets of value not less than five lakh rupees: Provided that existing investment advisers shall comply with the networth requirement within three years from the date of commencement of the SEBI (Investment Advisers) (Amendment) Regulations, 2020. [Substituted as 'Deposit' by SEBI (Investment Advisers) (Second Amendment) Regulations, 2024, w.e.f. 16-12-2024.]
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s72998]
+Passage A:
+Regulation 21(1) (original, pre-2023): An investment adviser shall redress client grievances promptly.
+
+Passage B:
+Regulation 21(1) (as amended by SEBI (Facilitation of Grievance Redressal Mechanism) (Amendment) Regulations, 2023, w.e.f. 18-08-2023): The Investment Adviser shall redress investor grievances promptly but not later than twenty-one calendar days from the date of receipt of the grievance and in such manner as may be specified by the Board.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s75176]
+Regulation 16(a): it obtains from the client, such information as is necessary for the purpose of giving investment advice, including the following: (i) age; (ii) investment objectives including time for which they wish to stay invested, the purposes of the investment; (iii) income details; (iv) existing investments/assets; (v) risk appetite/tolerance; (vi) liability/borrowing details.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s82005]
+Regulation 13(h): the number of clients of a part-time investment adviser shall not exceed seventy-five in total at any point of time.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s91121]
+Regulation 13(e): individuals registered as investment advisers whose number of clients exceed three hundred at any point of time or the fee collected during the financial year exceeds three crore rupees, whichever is earlier shall — (i) immediately intimate the Administration and Supervisory Body and initiate the process of transition from individual to non-individual investment adviser; and (ii) apply for grant of in-principle approval for registration as non-individual investment adviser within 3 months from the date on which the threshold is reached.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s92985]
+Regulation 22A: (1) Investment adviser may provide implementation services to the advisory clients in securities market: Provided that investment advisers shall ensure that no consideration including any commission or referral fees, whether embedded or indirect or otherwise, by whatever name called is received; directly or indirectly, at investment adviser's group or family level for the said service. (2) Investment adviser shall provide implementation services to its advisory clients only through direct schemes/products in the securities market. (3) Investment adviser or group or family of investment adviser shall not charge any implementation fees from the client. (4) The client shall not be under any obligation to avail implementation services offered by the investment adviser.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s93417]
+Regulation 22 (original, 2013): Investment advisers which are banks, NBFCs and body corporate providing distribution or execution services to their clients shall keep their investment advisory services segregated from such activities: Provided that such distribution or execution services can only be offered subject to the following: (a) The client shall not be under any obligation to avail the distribution or execution services offered by the investment adviser. (b) The investment adviser shall maintain arms length relationship. (c) All fees and charges paid to distribution or execution service providers by the client shall be paid directly to the service providers and not through the investment adviser. [Substituted by SEBI (IA) (Amendment) Regulations, 2020, w.e.f. 30-09-2020 to require: individual IAs cannot provide distribution services; non-individual IAs to have client-level segregation at group level.]
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s96789]
+Regulation 24(1): Before ordering an inspection under regulation 23, the Board shall give not less than ten days notice to the investment adviser. (2) Notwithstanding anything contained in sub-regulation (1), where the Board is satisfied that in the interest of the investors no such notice should be given, it may by an order in writing direct that the inspection of the affairs of the investment adviser be taken up without such notice.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s96799]
+Regulation 7(1)(a) (pre-2020 Amendment): A professional qualification or graduate degree or post-graduate degree or post graduate diploma (minimum two years in duration) in finance, accountancy, business management, commerce, economics, capital market, banking, insurance or actuarial science or other financial services as may be specified from a university or an institution recognized by the Central Government or any State Government or a recognised foreign university or institution or association or a professional qualification by completing a Post Graduate Program in the Securities Market (Investment Advisory) from NISM of a duration not less than one year or a professional qualification by obtaining a CFA Charter from the CFA Institute. [As substituted w.e.f. 30-09-2020 and further updated w.e.f. 25-11-2025]: A graduate degree or any equivalent educational qualification from a recognized institution or CFA Charter, and relevant certification from NISM or accredited body.
+
+[SEBI_2013_securities_and_exchange_board_of_india_investment_advis_071#s97113]
+Regulation 19(3): An investment adviser shall conduct yearly audit in respect of compliance with these regulations from a member of Institute of Chartered Accountants of India or Institute of Company Secretaries of India or Institute of Cost Accountants of India and submit a report of the same as may be specified by the Board.

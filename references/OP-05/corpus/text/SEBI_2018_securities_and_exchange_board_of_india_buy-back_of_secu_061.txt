@@ -1,0 +1,23 @@
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s23719]
+A company shall not make any offer of buy-back within a period of one year reckoned from the date of expiry of buyback period of the preceding offer of buy-back, if any.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s32652]
+A company may undertake a buy-back of its own shares or other specified securities out of (a) its free reserves; (b) the securities premium account; or (c) the proceeds of the issue of any shares or other specified securities: Provided that no such buy-back shall be made out of the proceeds of an earlier issue of the same kind of shares or same kind of other specified securities.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s35911]
+The maximum limit of any buy-back shall be twenty-five per cent or less of the aggregate of paid-up capital and free reserves of the company. The ratio of the aggregate of secured and unsecured debts owed by the company to the paid-up capital and free reserves after buy-back shall be less than or equal to 2:1.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s64290]
+A company shall not make any offer of buy-back within a period of one year reckoned from the date of expiry of buyback period of the preceding offer of buy-back, if any. The buy-back period means the period between the date of board of directors resolution or date of declaration of results of the postal ballot for special resolution, as the case may be, to authorize buyback of shares and the date on which payment of consideration to shareholders who have accepted the buyback offer is made.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s80357]
+No company shall directly or indirectly purchase its own shares or other specified securities: (a) through any subsidiary company including its own subsidiary companies; (b) through any investment company or group of investment companies; or (c) if a default is made by the company in the repayment of deposits...Provided that the buy-back is not prohibited, if the default is remedied and a period of three years has lapsed after such default ceased to subsist.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s85715]
+The ratio of the aggregate of secured and unsecured debts owed by the company to the paid-up capital and free reserves after buy-back shall be less than or equal to 2:1, based on the standalone or consolidated financial statements of the company, whichever is lower.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s86786]
+buy-back from the open market through stock exchanges, based on the standalone or consolidated financial statements of the company, whichever sets out a lower amount, shall be less than: (i) fifteen per cent of the paid up capital and free reserves of the company till March 31, 2023; (ii) ten per cent of the paid up capital and free reserves of the company till March 31, 2024; (iii) five per cent of the paid up capital and free reserves of the company till March 31, 2025. Provided further that buy-back from the open market through the stock exchange shall not be allowed with effect from April 1, 2025.
+
+[SEBI_2018_securities_and_exchange_board_of_india_buy-back_of_secu_061#s86937]
+The maximum limit of any buy-back shall be twenty-five per cent or less of the aggregate of paid-up capital and free reserves of the company, based on the standalone or consolidated financial statements of the company, whichever sets out a lower amount.

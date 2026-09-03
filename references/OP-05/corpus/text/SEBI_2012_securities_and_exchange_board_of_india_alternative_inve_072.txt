@@ -1,0 +1,158 @@
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s02210]
+Passage A:
+Regulation 16(2)(a) (pre-2021): at least two-thirds of the investable funds shall be invested in unlisted equity shares or equity linked instruments of a venture capital undertaking or in companies listed or proposed to be listed on a SME exchange or SME segment of an exchange.
+
+Passage B:
+Regulation 16(2)(a) (as substituted w.e.f. 13-08-2021): at least seventy-five percent of the investable funds shall be invested in unlisted equity shares or equity linked instruments of a venture capital undertaking or in companies listed or proposed to be listed on a SME exchange or SME segment of an exchange: Provided that the investment conditions specified in clause (a) shall be achieved by the fund by the end of its life cycle.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s07228]
+Regulation 4(g) (original, pre-2020): the key investment team of the Manager of AIF has adequate experience, with at least one key personnel having not less than five years experience in advising or managing pools of capital or in fund or asset or wealth or portfolio management or in the business of buying, selling and dealing of securities or other financial assets and has relevant professional qualification. [Substituted by SEBI (AIF) (Amendment) Regulations, 2020, w.e.f. 19-10-2020]: team has at least one key personnel with relevant NISM certification AND at least one with professional qualification in finance or CFA Charter.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s10438]
+Regulation 15(1)(d): Category III Alternative Investment Funds shall invest not more than ten per cent of the investable funds in an Investee Company, directly or through investment in units of other Alternative Investment Funds and the large value funds for accredited investors of Category III Alternative Investment Funds may invest up to twenty per cent of the investable funds in an Investee Company, directly or through investment in units of other Alternative Investment Funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s18087]
+Regulation 15(1)(e): Alternative Investment Fund shall not invest except with the approval of seventy five percent of investors by value of their investment in the Alternative Investment Fund in — (a) associates; or (b) units of Alternative Investment Funds managed or sponsored by its Manager, Sponsor or associates of its Manager or Sponsor.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s19613]
+Regulation 3(4): Alternative Investment Funds shall seek registration in one of the categories mentioned hereunder — (a) 'Category I AIF' which invests in start-up or early stage ventures or social ventures or SMEs or infrastructure or other sectors which the government or regulators consider as socially or economically desirable — includes venture capital funds, SME Funds, angel funds, social impact funds, infrastructure funds, special situation funds; (b) 'Category II AIF' which does not fall in Category I and III and which does not undertake leverage or borrowing other than as permitted in these regulations — includes private equity funds or debt funds; (c) 'Category III AIF' which employs diverse or complex trading strategies and may employ leverage including through investment in listed or unlisted derivatives — includes hedge funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s21039]
+Funds registered as venture capital funds under the Securities and Exchange Board of India (Venture Capital Funds) Regulations, 1996 shall be governed by the said regulations for a period of five years from the commencement of the SEBI (AIF) Regulations, 2012, provided that the existing fund shall not increase the targeted corpus of the fund. Venture capital funds may seek registration under the AIF Regulations as migrated venture capital funds in terms of Chapter III-D, within twelve months of notification of the relevant regulations.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s21975]
+Each scheme of the Alternative Investment Fund shall have corpus of at least twenty crore rupees. The Alternative Investment Fund shall not accept from an investor, an investment of value less than one crore rupees: Provided that in case of investors who are employees or directors of the Alternative Investment Fund or employees or directors of the Manager, the minimum value of investment shall be twenty five lakh rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s23360]
+Regulation 10(c): the Alternative Investment Fund shall not accept from an investor, an investment of value less than one crore rupees: Provided that in case of investors who are employees or directors of the Alternative Investment Fund or employees or directors of the Manager, the minimum value of investment shall be twenty five lakh rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s26355]
+Regulation 3(4)(a) previously included 'social venture funds' as a sub-category of Category I AIF. [The term 'social venture funds' was substituted by 'social impact funds' by the SEBI (AIF) (Third Amendment) Regulations, 2022, w.e.f. 25-07-2022.] The Explanation to Regulation 16(4) was simultaneously updated from 'social venture funds' to 'social impact funds'.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s27188]
+Passage A:
+Regulation 13(5) (pre-2021): Extension of the tenure of the close ended Alternative Investment Fund may be permitted up to two years subject to approval of two-thirds of the unit holders by value of their investment in the Alternative Investment Fund.
+
+Passage B:
+Regulation 13(5) (as amended): Extension of the tenure of the close ended Alternative Investment Fund may be permitted up to two years subject to approval of two-thirds of the unit holders by value of their investment in the Alternative Investment Fund: Provided that an Accredited Investors only fund may be permitted to extend its tenure up to five years subject to the approval of two-thirds of the unit holders by value of their investment in the Accredited Investors only fund.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s29246]
+Regulation 13(1): Category I Alternative Investment Fund and Category II Alternative Investment Fund shall be close ended and the tenure of fund or scheme shall be determined at the time of application subject to sub-regulation (2) of this regulation. (2) Category I and II Alternative Investment Fund or schemes launched by such funds shall have a minimum tenure of three years. (3) Schemes of Category III Alternative Investment Fund may be open ended or close ended.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s29347]
+Regulation 15(1)(i) (inserted by SEBI (AIF) (Amendment) Regulations, 2024, w.e.f. 05-01-2024): Alternative Investment Funds shall hold their investments in dematerialised form, subject to such conditions as may be specified by the Board from time to time: Provided that the requirement shall not apply to: (a) investments not eligible for dematerialisation, (b) investments held by a liquidation scheme that are not available in dematerialised form, and (c) such other investments as may be specified by the Board from time to time.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s32874]
+Regulation 15(1)(c): Category I and II of Alternative Investment Funds shall invest not more than twenty five per cent of the investable funds in an Investee Company directly or through investment in the units of other Alternative Investment Funds: Provided that large value funds for accredited investors of Category I and II may invest up to fifty percent of the investable funds in an investee company directly or through investment in the units of other Alternative Investment Funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s34249]
+Regulation 12(2): Such placement memorandum shall be filed with the Board through a merchant banker atleast thirty days prior to launch of scheme along with the fees as specified in the Second Schedule.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s41015]
+Regulation 15(1)(c): Category I and II of Alternative Investment Funds shall invest not more than twenty five per cent of the investable funds in an Investee Company directly or through investment in the units of other Alternative Investment Funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s43461]
+Regulation 16(1)(c): Category I Alternative Investment Funds shall not borrow funds directly or indirectly or engage in any leverage for the purpose of making investments or otherwise, except for borrowing funds to meet temporary funding requirements and day-to-day operational requirements for not more than thirty days, on not more than four occasions in a year and not more than ten percent of the investable funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s45069]
+Regulation 16(2)(a) (original): at least two-thirds of the investable funds shall be invested in unlisted equity shares or equity linked instruments of a venture capital undertaking or in companies listed or proposed to be listed on a SME exchange. [Substituted w.e.f. 13-08-2021 by SEBI (AIF) (Fourth Amendment) Regulations, 2018]: at least seventy-five percent of the investable funds shall be invested in such instruments.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s46595]
+Regulation 10(d): the Manager or Sponsor shall have a continuing interest in the Alternative Investment Fund of not less than two and half percent of the corpus or five crore rupees, whichever is lower, in the form of investment in the Alternative Investment Fund.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s47427]
+The Manager or Sponsor shall have a continuing interest in the Alternative Investment Fund of not less than two and half percent of the corpus or five crore rupees, whichever is lower, in the form of investment in the Alternative Investment Fund and such interest shall not be through the waiver of management fees: Provided that for Category III Alternative Investment Fund, the continuing interest shall be not less than five percent of the corpus or ten crore rupees, whichever is lower.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s51862]
+Category III Alternative Investment Funds shall invest not more than ten per cent of the investable funds in an Investee Company directly or through investment in units of other AIFs. The Alternative Investment Fund shall not accept from an investor, an investment of value less than one crore rupees. No scheme of the Alternative Investment Fund shall have more than one thousand investors.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s54641]
+Passage A:
+Regulation 16(1)(c) (pre-2024): Category I Alternative Investment Funds shall not borrow funds directly or indirectly or engage in any leverage except for meeting temporary funding requirements for not more than thirty days, on not more than four occasions in a year and not more than ten percent of the investable funds.
+
+Passage B:
+Regulation 16(1)(c) (as substituted w.e.f. 07-08-2024): Category I Alternative Investment Funds shall not borrow funds directly or indirectly or engage in any leverage for the purpose of making investments or otherwise, except for borrowing funds to meet temporary funding requirements and day-to-day operational requirements for not more than thirty days, on not more than four occasions in a year and not more than ten percent of the investable funds.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s56198]
+Regulation 15(1)(e) (pre-2021): AIF shall not invest in associates except with approval of 75% of investors. [Substituted w.e.f. 05-05-2021 by SEBI (AIF) (Second Amendment) Regulations, 2021]: AIF shall not invest except with approval of 75% of investors in — (a) associates; or (b) units of AIFs managed or sponsored by its Manager, Sponsor or associates of its Manager or Sponsor.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s60848]
+Passage A:
+Regulation 15(1)(e) (pre-2021): Alternative Investment Fund shall not invest in associates except with the approval of seventy five percent of investors by value of their investment in the Alternative Investment Fund.
+
+Passage B:
+Regulation 15(1)(e) (as substituted w.e.f. 05-05-2021): Alternative Investment Fund shall not invest except with the approval of seventy five percent of investors by value of their investment in the Alternative Investment Fund in — (a) associates; or (b) units of Alternative Investment Funds managed or sponsored by its Manager, Sponsor or associates of its Manager or Sponsor.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s63103]
+Regulation 13(5): Extension of the tenure of the close ended Alternative Investment Fund may be permitted up to two years subject to approval of two-thirds of the unit holders by value of their investment in the Alternative Investment Fund: Provided that an Accredited Investors only fund may be permitted to extend its tenure up to five years subject to the approval of two-thirds of the unit holders by value of their investment in the Accredited Investors only fund.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s63618]
+Regulation 2(1)(ga) (inserted by SEBI (AIF) (Second Amendment) Regulations, 2023, w.e.f. 15-06-2023): 'Corporate Debt Market Development Fund' means an Alternative Investment Fund set up and making investments in terms of Chapter III-C of these regulations.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s64971]
+Regulation 10(b): each scheme of the Alternative Investment Fund shall have corpus of at least twenty crore rupees: Provided that each scheme of the social impact fund shall have a corpus of at least five crore rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s68393]
+Regulation 2(1)(pa) (inserted by SEBI (AIF) (Third Amendment) Regulations, 2021, w.e.f. 03-08-2021): 'large value fund for accredited investors' means an Alternative Investment Fund or scheme in which each investor is an accredited investor and invests not less than seventy crore rupees. [Renamed to 'Accredited Investors only fund' and updated by SEBI (AIF) (Third Amendment) Regulations, 2025, w.e.f. 19-11-2025.]
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s70862]
+Regulation 13(2): Category I and II Alternative Investment Fund or schemes launched by such funds shall have a minimum tenure of three years. Regulation 13(5): Extension of the tenure of the close ended Alternative Investment Fund may be permitted up to two years subject to approval of two-thirds of the unit holders by value of their investment in the Alternative Investment Fund: Provided that an Accredited Investors only fund may be permitted to extend its tenure up to five years.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s71350]
+The Manager or Sponsor shall have a continuing interest in the Alternative Investment Fund of not less than two and half percent of the corpus or five crore rupees, whichever is lower. For Category III Alternative Investment Fund, the continuing interest shall be not less than five percent of the corpus or ten crore rupees, whichever is lower. Each scheme of the Alternative Investment Fund shall have corpus of at least twenty crore rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s71882]
+Regulation 12(2): Such placement memorandum shall be filed with the Board through a merchant banker atleast thirty days prior to launch of scheme along with the fees as specified in the Second Schedule: Provided that payment of scheme fees shall not apply in case of launch of first scheme by the Alternative Investment Fund.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s74078]
+Regulation 2(1)(ab): 'accredited investor' means any person who is granted a certificate of accreditation by an accreditation agency who — (ii) in case of a body corporate, has net worth of at least fifty crore rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s75197]
+The SEBI (AIF) Regulations, 2012 were the first set of regulations governing the alternative investment fund industry in India in a consolidated manner. The provision permitting social impact funds to issue 'social units' and to raise funds from social investors was inserted by the SEBI (Alternative Investment Funds) (Third Amendment) Regulations, 2022, w.e.f 25.07.2022. Before July 2022, social impact funds could not issue social units under the AIF Regulations.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s79532]
+Passage A:
+Regulation 2(1)(pa) (before November 2025 amendment): 'large value fund for accredited investors' means an Alternative Investment Fund or scheme of an Alternative Investment Fund in which each investor (other than the Manager, Sponsor, employees or directors of the Alternative Investment Fund or employees or directors of the Manager) is an accredited investor and invests not less than seventy crore rupees.
+
+Passage B:
+Regulation 2(1)(pa) (as amended w.e.f. 19-11-2025): 'large value fund for accredited investors' means an Alternative Investment Fund or scheme of an Alternative Investment Fund in which each investor (other than the Manager, Sponsor, employees or directors of the Alternative Investment Fund or employees or directors of the Manager) is an accredited investor and invests not less than twenty-five crore rupees.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s79626]
+Regulation 10(d): Provided that for Category III Alternative Investment Fund, the continuing interest shall be not less than five percent of the corpus or ten crore rupees, whichever is lower.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s80271]
+Passage A:
+Regulation 4(g) (pre-2020): the key investment team of the Manager of Alternative Investment Fund has adequate experience, with at least one key personnel having not less than five years experience in advising or managing pools of capital or in fund or asset or wealth or portfolio management or in the business of buying, selling and dealing of securities or other financial assets and has relevant professional qualification.
+
+Passage B:
+Regulation 4(g) (as substituted w.e.f. 19-10-2020): The key investment team of the Manager of Alternative Investment Fund has — (i) at least one key personnel with relevant certification as may be specified by the Board from time to time; and (ii) at least one key personnel with professional qualification in finance, accountancy, business management, commerce, economics, capital market or banking from a recognized university, or a CFA charter from the CFA institute or any other qualification as may be specified by the Board. [Both requirements may be fulfilled by the same key personnel.]
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s80274]
+Regulation 14(1): Units of close ended Alternative Investment Fund may be listed on stock exchange subject to a minimum tradable lot of one crore rupees. (2) Listing of Alternative Investment Fund units shall be permitted only after final close of the fund or scheme.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s81431]
+Regulation 3(1): On and from the commencement of these regulations, no entity or person shall act as an Alternative Investment Fund unless it has obtained a certificate of registration from the Board.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s85569]
+Regulation 10(f) (as amended by SEBI (AIF) (Third Amendment) Regulations, 2025, w.e.f. 19-11-2025): no scheme of the Alternative Investment Fund shall have more than one thousand investors: Provided that accredited investors shall be excluded while computing the number of investors in a scheme of an Alternative Investment Fund. [Prior to this amendment, all investors including accredited investors were counted toward the 1,000 cap.]
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s87414]
+Regulation 16(2)(a): at least seventy-five percent of the investable funds shall be invested in unlisted equity shares or equity linked instruments of a venture capital undertaking or in companies listed or proposed to be listed on a SME exchange or SME segment of an exchange: Provided that the investment conditions specified in clause (a) shall be achieved by the fund by the end of its life cycle.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s88837]
+Regulation 10(d): the Manager or Sponsor shall have a continuing interest in the Alternative Investment Fund of not less than two and half percent of the corpus or five crore rupees, whichever is lower, in the form of investment in the Alternative Investment Fund and such interest shall not be through the waiver of management fees: Provided that for Category III Alternative Investment Fund, the continuing interest shall be not less than five percent of the corpus or ten crore rupees, whichever is lower.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s92730]
+Regulation 6(4): The Board may, on being satisfied that the applicant complies with the provisions of regulation 4 except those of clause (c) or clause (d) thereof, as the case may be, grant an in-principle approval to the applicant: Provided that the applicant shall comply with clause (c) or clause (d) of regulation 4, as the case may be, within six months from the date of grant of in-principle approval and upon compliance with the same, the Board may grant a certificate of registration. (5) An Alternative Investment Fund that has been granted in-principle approval may accept commitments from investors but shall not accept any monies till it is granted registration under sub-regulation (2) of this regulation.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s93289]
+Regulation 3(7): Without prejudice to the powers of the Board to take any action under the Act or regulations made thereunder, the certificate of registration shall be valid till the Alternative Investment Fund is wound up.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s94379]
+Regulation 10(c): the Alternative Investment Fund shall not accept from an investor, an investment of value less than one crore rupees: Provided that in case of investors who are employees or directors of the Alternative Investment Fund or employees or directors of the Manager, the minimum value of investment shall be twenty five lakh rupees: Provided further that this clause shall not apply to an accredited investor.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s95313]
+Regulation 9(2): Any material alteration to the fund strategy shall be made with the consent of atleast two-thirds of unit holders by value of their investment in the Alternative Investment Fund.
+
+[SEBI_2012_securities_and_exchange_board_of_india_alternative_inve_072#s96266]
+Regulation 10(f): no scheme of the Alternative Investment Fund shall have more than one thousand investors: Provided that accredited investors shall be excluded while computing the number of investors in a scheme of an Alternative Investment Fund.

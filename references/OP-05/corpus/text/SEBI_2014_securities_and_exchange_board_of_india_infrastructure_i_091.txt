@@ -1,0 +1,29 @@
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s03392]
+who, apart from receiving director's remuneration, does not have any or has had no material pecuniary relationship with the InvIT, its Holdco and/or SPV, parties to the InvIT, its holding company, the subsidiary or associate or their promoters or directors, during the three immediately preceding financial years... the aggregate of which in relation to points (A) to (D) shall not exceed two percent of its gross turnover or total income or fifty lakh rupees or such higher amount as may be specified from time to time, whichever is lower.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s09083]
+"institutional investor" means â€” (i) a qualified institutional buyer; or (ii) a family trust or an intermediary registered with the Board, having a net worth of more than five hundred crore rupees, as per the latest audited financial statements.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s17836]
+The trustee shall oversee activities of the investment manager in the interest of the unit holders, ensure that the investment manager complies with regulation 10 and shall obtain compliance certificate from the investment manager, in the form as may be specified, on a quarterly basis.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s19145]
+"holdco" or "holding company" means a company or LLP, â€” (i) in which InvIT holds or proposes to hold controlling interest and not less than fifty one per cent of the equity share capital or interest and which in turn has made investments in other SPV(s), which ultimately hold the infrastructure assets; (ii) which is not engaged in any other activity other than holding of the underlying SPV(s), holding of infrastructure projects and any other activities pertaining to and incidental to such holdings.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s31276]
+the aggregate of which in relation to points (A) to (D) shall not exceed two percent of its gross turnover or total income or fifty lakh rupees or such higher amount as may be specified from time to time, whichever is lower.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s39539]
+"SPV" or "special purpose vehicle" means any company or LLP â€” a. in which either the InvIT or the holdco holds or proposes to hold controlling interest and not less than fifty one per cent of the equity share capital or interest... b. which holds not less than ninety per cent of its assets directly in infrastructure projects and does not invest in other SPVs.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s90649]
+The trustee shall review the transactions carried out between the investment manager and its associates and where the investment manager has advised that there may be a conflict of interest, shall obtain confirmation from a practising chartered accountant or valuer, as applicable, that such transaction is on arm's length basis.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s93922]
+is or has been an employee or proprietor or a partner, in any of the three financial years immediately preceding the financial year in which he/she is proposed to be appointed, of â€” any legal or a consulting firm that has or had any transaction with the InvIT, its Holdco and/or SPV, parties to the InvIT, its holding company, subsidiary or associate amounting to ten per cent or more of the gross turnover of such firm.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s96247]
+The trustee shall ensure that the investment manager convenes meetings of unit holders not less than once every year and the period between such meetings shall not exceed fifteen months.
+
+[SEBI_2014_securities_and_exchange_board_of_india_infrastructure_i_091#s99986]
+The decision of the Board to reject the application shall be communicated to the applicant within thirty days of such decision.

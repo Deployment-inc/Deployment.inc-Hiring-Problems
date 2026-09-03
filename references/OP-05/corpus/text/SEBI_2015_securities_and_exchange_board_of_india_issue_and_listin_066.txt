@@ -1,0 +1,20 @@
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s38315]
+The draft offer document filed with the designated stock exchange shall be made public by posting the same on the website of the designated stock exchange for seeking public comments for a period of fifteen days from the date of filing the draft offer document with such exchange and shall be available for download in PDF / HTML formats.
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s47524]
+"private placement" means an offer or invitation made to two hundred or fewer identified persons... Provided that... any offer or invitation made to qualified institutional buyers shall not be considered while calculating the limit of two hundred persons.
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s49845]
+the issuer has not defaulted in repayment of debt securities or loans obtained from banks or financial institutions, during the preceding three hundred and sixty five days.
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s53623]
+A trust deed for securing the issue of debentures shall be executed by the issuer in favour of the independent trustee or debenture trustee, as applicable, within three months of the closure of the issue.
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s63508]
+Provided that where an issuer has filed a shelf offer document, not more than four public issuances shall be made through a single shelf offer document.
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s63792]
+The Board may specify changes or issue observations, if any, on the draft offer document within twenty one days from the later of the following dates: a) the date of receipt of the draft offer document under sub-regulation (1); or b) the date of receipt of satisfactory reply from the lead manager(s), where the Board has sought any clarification or additional information from them; or c) the date of receipt of clarification or information from any regulator or agency, where the Board has sought any clarification or information from such regulator or agency; or d) the date of receipt of a copy of in-principle approval letter issued by the stock exchange(s).
+
+[SEBI_2015_securities_and_exchange_board_of_india_issue_and_listin_066#s75515]
+Where the issuer desires to roll-over the municipal debt securities issued, it shall do so only upon passing of a special resolution to that effect and give twenty one days' notice of the proposed roll over to the holders of municipal debt securities: Provided that, if the holders of municipal debt securities do not provide consent for the proposed roll over within the notice period, the issuer shall redeem the municipal debt securities of such holders.

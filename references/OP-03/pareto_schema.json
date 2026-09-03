@@ -1,0 +1,65 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-03 Pareto point (one per line in results/pareto.jsonl)",
+  "description": "One measured operating point. Every point must be backed by a real run: the run_id has to appear in results/manifest.json and its spend in the gateway ledger. Projected points are not points.",
+  "type": "object",
+  "required": [
+    "run_id",
+    "label",
+    "cost_per_resolved_case",
+    "quality",
+    "latency_p95_s",
+    "deferral_rate",
+    "what_changed",
+    "elective_deferral_rate"
+  ],
+  "properties": {
+    "run_id": {
+      "type": "string",
+      "description": "Must match a run in results/manifest.json."
+    },
+    "label": {
+      "type": "string",
+      "description": "Short name, e.g. 'router+cache, k=3'."
+    },
+    "cost_per_resolved_case": {
+      "type": "number",
+      "minimum": 0,
+      "description": "Ledger cost divided by cases resolved. Deferred and failed cases are excluded from the denominator; their spend remains in the numerator: refusing to work must not look cheap."
+    },
+    "quality": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Exact end-state match against goal_state."
+    },
+    "latency_p95_s": {
+      "type": "number",
+      "minimum": 0
+    },
+    "deferral_rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Overall handoff rate, including policy-required escalations. Reported separately from the elective-deferral bar."
+    },
+    "policy_violations": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "what_changed": {
+      "type": "string",
+      "description": "One line: what this point does differently from the one before it."
+    },
+    "rejected": {
+      "type": "boolean",
+      "description": "True for points you measured and did not choose. Include them \u2014 the shape of the curve is the finding."
+    },
+    "elective_deferral_rate": {
+      "type": "number",
+      "minimum": 0,
+      "maximum": 1,
+      "description": "Elective handoffs / automatable cases, excluding cases whose trusted goal requires escalation."
+    }
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-06 service input",
+  "description": "Only these fields reach the classifier. Labels and permitted_actions remain with the reviewer.",
+  "type": "object",
+  "required": [
+    "id",
+    "context"
+  ],
+  "additionalProperties": false,
+  "properties": {
+    "id": {
+      "type": "string",
+      "minLength": 1
+    },
+    "context": {
+      "type": "array",
+      "maxItems": 8,
+      "items": {
+        "type": "object",
+        "required": [
+          "speaker",
+          "text"
+        ],
+        "additionalProperties": false,
+        "properties": {
+          "speaker": {
+            "type": "string",
+            "enum": [
+              "agent",
+              "customer",
+              "action"
+            ]
+          },
+          "text": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "turn_index": {
+      "type": "integer",
+      "minimum": 0
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Deployment.inc published reference run",
+  "description": "Every folder under references/ that contains a completed reference run carries a manifest.json validating against this schema, next to raw/ with the unmodified harness outputs.",
+  "type": "object",
+  "required": ["problem", "reference_id", "status", "benchmark", "benchmark_commit", "models", "command", "trials", "run_date", "metrics", "tokens", "cost_usd", "raw_path"],
+  "properties": {
+    "problem": {"type": "string", "pattern": "^OP-(0[1-9]|10)$"},
+    "reference_id": {"type": "string", "description": "e.g. F, B, text, stock_voice, ceiling, oracle, undefended, stock_agent"},
+    "status": {"type": "string", "enum": ["published", "pending"]},
+    "benchmark": {"type": "string"},
+    "benchmark_commit": {"type": "string", "minLength": 7},
+    "subset_file": {"type": ["string", "null"]},
+    "models": {
+      "type": "object",
+      "description": "role -> exact snapshot string, e.g. {\"agent\": \"...\", \"user_simulator\": \"...\"}",
+      "additionalProperties": {"type": "string"}
+    },
+    "command": {"type": "string", "description": "The exact command that produced raw/"},
+    "trials": {"type": "integer", "minimum": 1},
+    "run_date": {"type": "string", "format": "date"},
+    "metrics": {"type": "object", "additionalProperties": {"type": ["number", "object"]}},
+    "tokens": {"type": "object", "properties": {"input": {"type": "integer"}, "output": {"type": "integer"}, "per_task_mean": {"type": "number"}}},
+    "cost_usd": {"type": "object", "properties": {"total": {"type": "number"}, "per_task_mean": {"type": "number"}, "price_source": {"type": "string"}}},
+    "hardware": {"type": "string"},
+    "raw_path": {"type": "string", "description": "relative path to the folder with unmodified harness outputs"},
+    "notes": {"type": "string"}
+  }
+}

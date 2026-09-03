@@ -1,0 +1,14 @@
+[SEBI_2026_securities_and_exchange_board_of_india_mutual_funds_reg_050#s09704]
+Where the mutual fund fails to receive the minimum subscription amount referred to in the offer document, the asset management company shall refund the subscription amount to the applicants without any exit load. If seventy-five per cent of the unit holders of a scheme pass a resolution for its winding up, the trustees shall wind up such scheme, and shall initiate the winding up process within forty-five calendar days from the date of publication of notice under sub-regulation.
+
+[SEBI_2026_securities_and_exchange_board_of_india_mutual_funds_reg_050#s28057]
+The asset management company shall repay the amount at the rate of fifteen per cent per annum for the period of delay to the unitholders, as the case may be. Any borrowing by a scheme shall not exceed twenty per cent of the net assets of the scheme and the duration of such borrowing shall not exceed six months.
+
+[SEBI_2026_securities_and_exchange_board_of_india_mutual_funds_reg_050#s43617]
+The Board may issue observations, if any, within 21 working days from the date of filing of the scheme information document. The exit load of an open-ended mutual fund scheme shall not exceed three per cent of the applicable net asset value. Any exit load charged to the investors shall be credited to the respective scheme.
+
+[SEBI_2026_securities_and_exchange_board_of_india_mutual_funds_reg_050#s84420]
+The board of directors of asset management company must comprise at least fifty per cent of independent directors. The custodian in which fifty per cent or more of the directors represent the interest of the mutual fund shall not act as custodian for that mutual fund. An asset management company shall not invest more than ten per cent of the aggregate value of securities purchases or sales during any financial year through any single broker.
+
+[SEBI_2026_securities_and_exchange_board_of_india_mutual_funds_reg_050#s98364]
+The SEBI (Mutual Funds) Regulations were originally notified in 1996. The definition of 'NAV' or 'Net Asset Value' was introduced as a defined term as part of later amendments. The definition of 'exit load' was inserted to mean the charge or fee levied by the mutual fund at the time of redemption or switch. The definition of 'total expense ratio' was also introduced, defined as the ratio of total of all expenses charged to the investors of a scheme to its daily net assets.

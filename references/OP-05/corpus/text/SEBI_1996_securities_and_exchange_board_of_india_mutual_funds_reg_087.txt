@@ -1,0 +1,214 @@
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s01001]
+Asset management company and its obligations. 25. (12) The asset management company shall file with the trustees and the Board— (a) detailed bio-data of all its directors along with their interest in other companies within fifteen days of their appointment; (b) any change in the interests of directors every six months.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s01266]
+Norms for shareholding and governance in mutual funds. 7C. (4) In the event of the disassociation of the sponsor from the asset management company and the mutual fund, the board of directors of such asset management company shall have at least two third independent directors. (5) If the asset management company fails to fulfill the conditions specified under sub-clause (2) above, the dissociated sponsor or any new entity may become sponsor of the mutual fund subject to such conditions as may be specified by the Board from time to time.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s04108]
+Passage A:
+No sponsor of a mutual fund, its associate or group company including the asset management company of the fund, through the schemes of the mutual fund or otherwise, individually or collectively, directly or indirectly, have 10% or more of the share-holding or voting rights in the asset management company or the trustee company of any other mutual fund.
+
+Passage B:
+Any shareholder holding 10% or more of the share-holding or voting rights in the asset management company or the trustee company of a mutual fund, shall not have, directly or indirectly, 10% or more of the share-holding or voting rights in the asset management company or the trustee company of any other mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s04764]
+Passage A:
+The asset management company has a networth of not less than rupees ten crore.
+
+Passage B:
+The asset management company has a networth of not less than rupees fifty crore deployed in assets as may be specified by the Board.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s05890]
+Eligibility criteria for appointment of asset management company. 21. (1)(f) Provided further that an asset management company of a mutual fund eligible to launch only infrastructure debt fund schemes, shall have a networth of not less than rupees ten crore.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s05895]
+Seventh Schedule — Restrictions on Investments. 1. A mutual fund scheme shall not invest more than 10% of its NAV in debt instruments comprising money market instruments and non-money market instruments issued by a single issuer which are rated not below investment grade by a credit rating agency authorised to carry out such activity under the Act. Such investment limit may be extended to 12% of the NAV of the scheme with the prior approval of the Board of Trustees and Board of Directors of the asset management company: Provided that such limit shall not be applicable for investments in Government Securities, treasury bills and triparty repo on Government securities or treasury bills.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s06155]
+The original Regulation 45 of SEBI (Mutual Funds) Regulations, 1996 provided: 'The funds of a scheme shall not in any manner be used in option trading or in short selling or carry forward transactions.' This absolute prohibition was substantially modified by the SEBI (Mutual Funds) (Second Amendment) Regulations, 2007 (w.e.f. 31-10-2007) to permit mutual funds to engage in short selling transactions and derivatives transactions on recognised stock exchanges, subject to the framework specified by the Board.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s06187]
+Passage A:
+"advertisement" includes every form of advertising, whether in a publication, by display of notices, signs, labels or by means of circulars, catalogues or other documents, by an exhibition of pictures or photographic films, by way of sound broadcasting or television, or in any other manner.
+
+Passage B:
+"advertisement" shall include all forms of communication issued by or on behalf of the asset management company/mutual fund that may influence investment decisions of any investor/prospective investors.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s07136]
+Asset management company and its obligations. 25. (26) The asset management company shall ensure that no change in the fundamental attributes of any scheme or the trust, fees and expenses payable or any other change which would modify the scheme and affect the interest of unit holders, shall be carried out unless,— (i) a written communication about the proposed change is sent to each unit holder and an advertisement is issued in one English daily newspaper having nationwide circulation as well as in a newspaper published in the language of region where the Head Office of the mutual fund is situated; and (ii) the unit holders are given an option to exit at the prevailing Net Asset Value without any exit load.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s07714]
+Clause 11 of the Seventh Schedule previously read: 'A mutual fund scheme shall not invest more than 5% of its NAV in the unlisted equity shares or equity related instruments in case of open ended scheme and 10% of its NAV in case of close ended scheme.' This was substituted by the SEBI (Mutual Funds) (Second Amendment) Regulations, 2019 (w.e.f. 23-09-2019) to require that: 'All investments by a mutual fund scheme in equity shares and equity related instruments shall only be made provided such securities are listed or to be listed.'
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s07818]
+Payment of annual service fee. 12. A mutual fund shall pay before the 15th April each year a service fee as specified in the Second Schedule for every financial year from the year following the year of registration: Provided that the Board may, on being satisfied with the reasons for the delay permit the mutual fund to pay the service fee at any time before the expiry of two months from the commencement of the financial year to which such fee relates.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s08562]
+The eligibility criteria for registration of a mutual fund include: (c) the sponsor has contributed or contributes at least 40% to the net worth of the asset management company: Provided that any person who holds 40% or more of the net worth of an asset management company shall be deemed to be a sponsor and will be required to fulfill the eligibility criteria specified in these regulations.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s16101]
+Investment, borrowing, restriction, etc. 44. (2) The mutual fund shall not borrow except to meet temporary liquidity needs...Provided that the mutual fund shall not borrow more than 20 per cent of the net asset of the scheme and the duration of such a borrowing shall not exceed a period of six months.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s18932]
+Eligibility criteria for appointment of asset management company. 21. (1)(f) the asset management company has a networth of not less than rupees fifty crore deployed in assets as may be specified by the Board: Provided that where the sponsor does not fulfil the requirements provided in part (i) to (v) of the Explanation to clause (a) of regulation 7 at the time of making application, the asset management company shall be required to have a networth of not less than rupees one hundred crore.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s19340]
+Restrictions on business activities of the asset management company. 25. (7)(a) An asset management company shall not through any broker associated with the sponsor, purchase or sell securities, which is average of 5 per cent or more of the aggregate purchases and sale of securities made by the mutual fund in all its schemes: Provided that for the purpose of this sub-regulation, the aggregate purchase and sale of securities shall exclude sale and distribution of units issued by the mutual fund: Provided further that the aforesaid limit of 5 per cent shall apply for a block of any three months.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s19355]
+Valuation of investments. 47. The asset management company shall compute and carry out valuation of investments made by the scheme(s) of the mutual fund in accordance with the investment valuation norms specified in the Eighth Schedule and publish the same.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s21374]
+Seventh Schedule. 10. No mutual fund scheme shall invest more than 10 per cent of its NAV in the equity shares or equity related instruments of any entity: Provided that, the limit of 10 per cent shall not be applicable for investments in case of index fund or exchange traded fund or sector or industry specific scheme.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s28395]
+The original Seventh Schedule of SEBI (Mutual Funds) Regulations, 1996 included Clause 5: 'The initial issue expenses in respect of any scheme may not exceed six per cent of the funds raised under that scheme.' This clause was omitted by the SEBI (Mutual Funds) (Amendment) Regulations, 2008, w.e.f. 16-4-2008.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s28640]
+Restrictions on business activities of the asset management company. 24. The asset management company shall,— (a) not act as a trustee of any mutual fund; (b) not undertake any business activities other than in the nature of management and advisory services provided to pooled assets including offshore funds, insurance funds, pension funds, provident funds, or such categories of foreign portfolio investor as may be specified by the Board, if any of such activities are not in conflict with the activities of the mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s28888]
+Seventh Schedule. 9. No mutual fund [scheme] shall make any investment in...the listed securities of group companies of the sponsor which is in excess of 25 per cent of the net assets, except for investments by equity oriented exchange traded funds and index funds.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s29003]
+Seventh Schedule (historical). Clause 5 (now omitted): The initial issue expenses in respect of any scheme may not exceed six per cent of the funds raised under that scheme. (This clause was omitted by the SEBI (Mutual Funds) (Amendment) Regulations, 2008, w.e.f. 16-4-2008.)
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s29669]
+The SEBI (Mutual Funds) (Third Amendment) Regulations, 2021 (w.e.f. 08-12-2021) expanded the definition of 'mutual fund'. Before this amendment, the definition covered investment in securities, money market instruments, gold or gold related instruments, and real estate assets. The Third Amendment added 'silver or silver related instruments' as a new permissible asset class and inserted a proviso permitting mutual fund schemes investing in exchange traded commodity derivatives to hold the underlying goods in case of physical settlement of such contracts.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s31467]
+Seventh Schedule — Restrictions on Investments. 4. A scheme may invest in another scheme under the same asset management company or any other mutual fund without charging any fees, provided that aggregate inter-scheme investment made by all schemes under the same management or in schemes under the management of any other asset management company shall not exceed 5% of the net asset value of the mutual fund: Provided that this clause shall not apply to any fund of funds scheme.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s32602]
+Regulations 69, 70, 71, 72, 73 and 74 of the SEBI (Mutual Funds) Regulations, 1996, which dealt with enforcement and enquiry procedures, were omitted by the SEBI (Procedure for Holding Enquiry by Enquiry Officer and Imposing Penalty) Regulations, 2002, w.e.f. 27-9-2002.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s33911]
+Disqualification from being appointed as trustees. 16. (5) Two-thirds of the trustees shall be independent persons and shall not be associated with the sponsors or be associated with them in any manner whatsoever. (6) In case a company is appointed as a trustee then its directors can act as trustees of any other trust provided that the object of the trust is not in conflict with the object of the mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s34931]
+Seventh Schedule — Restrictions on Investments. 12. A fund of funds scheme shall be subject to the following investment restrictions: (a) A fund of funds scheme shall not invest in any other fund of funds scheme; (b) A fund of funds scheme shall not invest its assets other than in schemes of mutual funds, except to the extent of funds required for meeting the liquidity requirements for the purpose of repurchases or redemptions, as disclosed in the offer document of fund of funds scheme.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s37232]
+Seventh Schedule — Restrictions on Investments. 10. No mutual fund scheme shall invest more than 10 per cent of its NAV in the equity shares or equity related instruments of any entity: Provided that, the limit of 10 per cent shall not be applicable for investments in case of index fund or exchange traded fund or sector or industry specific scheme.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s38749]
+Passage A:
+No asset management company shall deal in securities through any broker associated with the sponsor or a firm which is an associate of a sponsor beyond 5% of the daily gross business of the mutual fund.
+
+Passage B:
+An asset management company shall not through any broker associated with the sponsor, purchase or sell securities, which is average of 5 per cent or more of the aggregate purchases and sale of securities made by the mutual fund in all its schemes: Provided further that the aforesaid limit of 5 per cent shall apply for a block of any three months.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s39024]
+Seventh Schedule — Restrictions on Investments. 8. Pending deployment of funds of a scheme in terms of investment objectives of the scheme, a mutual fund may invest them in short term deposits of schedule commercial banks, subject to such Guidelines as may be specified by the Board.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s39587]
+Appointment of an asset management company. 20. (1) The sponsor or, if so authorised by the trust deed, the trustee, shall appoint an asset management company, which has been approved by the Board under sub-regulation (2) of regulation 21. (2) The appointment of an asset management company can be terminated by majority of the trustees or by seventy-five per cent of the unitholders of the scheme. (3) Any change in the appointment of the asset management company shall be subject to prior approval of the Board and the unitholders.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s41366]
+Seventh Schedule. 13. A mutual fund scheme shall not invest— i. more than 10% of its NAV in the units of InvIT; and ii. more than 5% of its NAV in the units of InvIT issued by a single issuer.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s42879]
+Passage A:
+The asset management company shall not undertake any other business activities except activities in the nature of portfolio management services, management and advisory services to offshore funds, pension funds, provident funds, venture capital funds, management of insurance funds, financial consultancy and exchange of research on commercial basis if any of such activities are not in conflict with the activities of the mutual fund.
+
+Passage B:
+The asset management company shall not undertake any business activities other than in the nature of management and advisory services provided to pooled assets including offshore funds, insurance funds, pension funds, provident funds, or such categories of foreign portfolio investor as may be specified by the Board, if any of such activities are not in conflict with the activities of the mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s43777]
+SEBI (Mutual Funds) Regulations, 1996: 'The mutual fund having an aggregate of securities which are worth Rs. 10 crores or more, as on the latest balance-sheet date, shall subject to such instructions as may be issued from time to time by the Board settle their transactions entered on or after January 15, 1998, only through dematerialised securities.' (This provision was inserted by the SEBI (Mutual Funds) (Amendment) Regulations, 1998, w.e.f. 12-1-1998.)
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s47518]
+Seventh Schedule. 4. A scheme may invest in another scheme under the same asset management company or any other mutual fund without charging any fees, provided that aggregate inter-scheme investment made by all schemes under the same management or in schemes under the management of any other asset management company shall not exceed 5% of the net asset value of the mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s48672]
+Eligibility criteria. 7. Explanation: For the purposes of this clause 'sound track record' shall mean the sponsor should— (iv) have net profit after providing for depreciation, interest and tax in each of the immediately preceding five years; and (v) have average net annual profit after depreciation, interest and tax during the immediately preceding five years of at least rupees ten crore.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s51782]
+Trust deed to be registered under the Registration Act. 14. A mutual fund shall be constituted in the form of a trust and the instrument of trust shall be in the form of a deed, duly registered under the provisions of the Indian Registration Act, 1908 (16 of 1908), executed by the sponsor in favour of the trustees named in such an instrument.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s51907]
+Seventh Schedule. 2. No mutual fund under all its schemes should own more than ten per cent of any company's paid up capital carrying voting rights or ten per cent of units of REITs issued by a single issuer, as the case may be.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s54680]
+Seventh Schedule — Restrictions on Investments. 2. No mutual fund under all its schemes should own more than ten per cent of any company's paid up capital carrying voting rights or ten per cent of units of REITs issued by a single issuer, as the case may be.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s57196]
+The original definition of 'advertisement' in the SEBI (Mutual Funds) Regulations, 1996 (clause 2(b)) enumerated specific advertising media: 'every form of advertising, whether in a publication, by display of notices, signs, labels or by means of circulars, catalogues or other documents, by an exhibition of pictures or photographic films, by way of sound broadcasting or television, or in any other manner.' This was substituted by the SEBI (Mutual Funds) (Amendment) Regulations, 2012 (w.e.f. 21-2-2012) with a broader definition: 'all forms of communication issued by or on behalf of the asset management company/mutual fund that may influence investment decisions of any investor/prospective investors.'
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s59930]
+Disqualification from being appointed as trustees. 16. (7) In case a company is appointed as the trustee of a mutual fund, the Chairperson of the board of directors of that trustee company shall be an independent director: Provided that a trustee company, already appointed as the trustee of a mutual fund shall comply with this sub-regulation within a period as may be specified by the Board from time to time.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s61331]
+Disqualification from being appointed as trustees. 16. (2) No person shall be eligible to be appointed as a trustee unless— (a) he is a person of ability, integrity and standing; and (b) has not been found guilty of moral turpitude; and (c) has not been convicted of any economic offence or violation of any securities laws; and (d) has furnished particulars as specified in Form C.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s65331]
+Eligibility criteria. 7. Provided that if the requirements specified under Explanation to clause (a) are not fulfilled, the sponsor shall,— (i) adequately capitalize the asset management company such that the net worth of the asset management company is not less than rupees one hundred fifty crore; and (ii) ensure that the initial shareholding equivalent to capital contributed to the asset management company to the extent of not less than rupees one hundred fifty crore is locked-in for a period of five years; and (iii) appoint experienced personnel in asset management company such that the total combined experience of Chief Executive Officer, Chief Operating Officer, Chief Risk Officer, Chief Compliance Officer and Chief Investment Officer should be at least thirty years.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s66732]
+The original Regulation 47 of SEBI (Mutual Funds) Regulations required: 'Every mutual fund shall ensure that the asset management company computes and carries out valuation of investments made by its scheme(s) in accordance with the investment valuation norms specified in the Eighth Schedule.' This obligation was subsequently moved to Regulation 25(19) and Regulation 47 was substituted by the SEBI (Mutual Funds) (Amendment) Regulations, 2023.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s67357]
+Seventh Schedule — Restrictions on Investments. 13. A mutual fund scheme shall not invest — i. more than 10% of its NAV in the units of InvIT; and ii. more than 5% of its NAV in the units of InvIT issued by a single issuer. Provided that the limits mentioned in sub-clauses (i) and (ii) above shall not be applicable for investments in case of index fund or sector or industry specific scheme pertaining to REIT and InvIT.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s74084]
+Seventh Schedule — Restrictions on Investments. 9. No mutual fund [scheme] shall make any investment in— (c) the listed securities of group companies of the sponsor which is in excess of 25 per cent of the net assets, except for investments by equity oriented exchange traded funds and index funds and subject to such conditions as may be specified by the Board.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s74405]
+Investment, borrowing, restriction, etc. 44. (2) The mutual fund shall not borrow except to meet temporary liquidity needs of the mutual funds for the purpose of repurchase, redemption of units or payment of interest or dividend to the unitholders: Provided that the mutual fund shall not borrow more than 20 per cent of the net asset of the scheme and the duration of such a borrowing shall not exceed a period of six months.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s75836]
+Passage A:
+A mutual fund scheme shall not invest more than 5% of its NAV in the unlisted equity shares or equity related instruments in case of open ended scheme and 10% of its NAV in case of close ended scheme.
+
+Passage B:
+All investments by a mutual fund scheme in equity shares and equity related instruments shall only be made provided such securities are listed or to be listed.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s76214]
+Seventh Schedule — Restrictions on Investments. 3. Transfers of investments from one scheme to another scheme in the same mutual fund shall be allowed only if,— (a) such transfers are done at the prevailing market price for quoted instruments on spot basis. Explanation.— 'Spot basis' shall have same meaning as specified by stock exchange for spot transactions; (b) the securities so transferred shall be in conformity with the investment objective of the scheme to which such transfer has been made.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s77784]
+Passage A:
+A mutual fund scheme shall not invest more than 10% of its NAV in unrated debt instruments issued by a single issuer and the total investment in such instruments shall not exceed 25% of the NAV of the scheme. All such investments shall be made with the prior approval of the Board of Trustees and the Board of asset management company.
+
+Passage B:
+A mutual fund scheme shall not invest in unlisted debt instruments including commercial papers, except Government Securities and other money market instruments: Provided that Mutual Fund Schemes may invest in unlisted non-convertible debentures up to a maximum of 10% of the debt portfolio of the scheme subject to such conditions as may be specified by the Board from time to time.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s82091]
+Seventh Schedule — Restrictions on Investments. 9. No mutual fund [scheme] shall make any investment in— (a) any unlisted security of an associate or group company of the sponsor; or (b) any security issued by way of private placement by an associate or group company of the sponsor; or (c) the listed securities of group companies of the sponsor which is in excess of 25 per cent of the net assets.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s82838]
+Eligibility criteria for appointment of asset management company. 21. (1)(f) Provided that where the sponsor does not fulfil the requirements provided in part (i) to (v) of the Explanation to clause (a) of regulation 7 at the time of making application, the asset management company shall be required to have a networth of not less than rupees one hundred crore deployed in assets as may be specified by the Board and the asset management company shall maintain such networth till it has profits for five consecutive years. Provided further that an asset management company of a mutual fund eligible to launch only infrastructure debt fund schemes, shall have a networth of not less than rupees ten crore.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s84626]
+Eligibility criteria for appointment of asset management company. 21. (1) For grant of approval of the asset management company the applicant has to fulfill the following:— (d) the board of directors of such asset management company has at least fifty per cent directors, who are not associate of, or associated in any manner with, the sponsor or any of its subsidiaries or the trustees; (e) the Chairman of the asset management company is not a trustee of any mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s85691]
+Terms and conditions to be complied with. 22. The approval granted under sub-regulation (2) of regulation 21 shall be subject to the following conditions, namely:— (c) no appointment of a director of an asset management company shall be made without prior approval of the trustees.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s88303]
+Under the SEBI (Mutual Funds) Regulations, 1996, the minimum networth requirement for an asset management company was originally set at rupees ten crore. The SEBI (Mutual Funds) (Amendment) Regulations, 2014 (w.e.f. 06-05-2014) substituted this threshold with 'rupees fifty crore', raising the minimum networth requirement substantially. Existing AMCs that did not meet this higher threshold were given three years from the date of notification of the 2014 amendment to increase their networth to the revised limit.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s88454]
+Asset management company and its obligations. 25. (18) The asset management company shall not carry out its operations including trading desk, unit holder servicing and investment operations outside the territory of India.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s89249]
+Seventh Schedule — Restrictions on Investments. 1. A mutual fund scheme shall not invest more than 10% of its NAV in debt instruments...issued by a single issuer...Such investment limit may be extended to 12% of the NAV of the scheme with the prior approval of the Board of Trustees and Board of Directors of the asset management company.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s89790]
+Restrictions on business activities of the asset management company. 24. The asset management company shall...not undertake any business activities other than in the nature of management and advisory services provided to pooled assets including offshore funds, insurance funds, pension funds, provident funds, or such categories of foreign portfolio investor subject to such conditions, as may be specified by the Board, if any of such activities are not in conflict with the activities of the mutual fund.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s91412]
+Rights and obligations of the trustees. 18. (15) The trustees shall obtain the consent of the unitholders— (a) whenever required to do so by the Board in the interest of the unitholders; or (b) whenever required to do so on the requisition made by three-fourths of the unitholders of any scheme; or (c) when the majority of the trustees decide to wind up a scheme or prematurely redeem the units of a close ended scheme.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s92606]
+The original SEBI (Mutual Funds) Regulations, 1996 provided that 'At least 50% of the trustees shall be independent persons and no such trustee shall be an associate or a subsidiary or associated in any manner with the sponsor.' This provision was substituted by the SEBI (Mutual Funds) (Amendment) Regulations, 1998 (w.e.f. 12-1-1998), which raised the requirement: 'Two-thirds of the trustees shall be independent persons and shall not be associated with the sponsors or be associated with them in any manner whatsoever.'
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s95045]
+Passage A:
+Atleast 50% of the trustees shall be independent persons and no such trustee shall be an associate or a subsidiary or associated in any manner with the sponsor.
+
+Passage B:
+Two-thirds of the trustees shall be independent persons and shall not be associated with the sponsors or be associated with them in any manner whatsoever.
+
+[SEBI_1996_securities_and_exchange_board_of_india_mutual_funds_reg_087#s98076]
+Disqualification from being appointed as trustees. 16. (3) No asset management company and no director (including independent director), officer or employee of an asset management company shall be eligible to be appointed as a trustee of any mutual fund.

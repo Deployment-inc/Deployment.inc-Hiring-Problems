@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-05 corpus manifest record (one per line in corpus/manifest.jsonl)",
+  "type": "object",
+  "required": ["doc_id", "title", "source_url", "effective_date", "supersedes", "role", "text_path", "sha256"],
+  "properties": {
+    "doc_id": {"type": "string", "pattern": "^[A-Za-z0-9._-]+$"},
+    "title": {"type": "string"},
+    "source_url": {"type": "string", "format": "uri"},
+    "effective_date": {"type": "string", "format": "date"},
+    "supersedes": {"type": "array", "items": {"type": "string"}},
+    "role": {"type": "string", "enum": ["public", "ops", "legal"]},
+    "text_path": {"type": "string", "description": "relative to corpus/; extracted plain text"},
+    "original_path": {"type": "string", "description": "relative to corpus/; the original PDF/HTML"},
+    "sha256": {"type": "string", "pattern": "^[a-f0-9]{64}$"},
+    "pages": {"type": "integer"}
+  }
+}

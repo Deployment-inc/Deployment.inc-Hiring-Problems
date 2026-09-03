@@ -1,0 +1,44 @@
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s01180]
+The minimum promoters' contribution shall be locked in for a period of eighteen months from the date of allotment in the initial public offer. Provided that in case the majority of the issue proceeds excluding the portion of offer for sale is proposed to be utilized for capital expenditure, then the lock-in period shall be three years from the date of allotment in the initial public offer. Promoters' holding in excess of minimum promoters' contribution shall be locked-in for a period of six months from the date of allotment in the initial public offer.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s07107]
+An issuer shall be eligible to make an initial public offer only if: (a) it has net tangible assets of at least three crore rupees, calculated on a restated and consolidated basis, in each of the preceding three full years; (b) it has an average operating profit of at least fifteen crore rupees during the preceding three years, with operating profit in each of these preceding three years; (c) it has a net worth of at least one crore rupees in each of the preceding three full years.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s09428]
+The tenure of warrants issued in an initial public offer shall not exceed eighteen months from the date of their allotment. The warrant holder shall exercise the option to acquire equity shares against each warrant within three months from the date of payment of warrant exercise price. At least twenty-five per cent. of the warrant consideration shall be paid upfront and disclosed in the offer document.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s10196]
+An issuer not satisfying the condition stipulated in sub-regulation (1) shall be eligible to make an initial public offer only if the issue is made through the book-building process and the issuer undertakes to allot at least seventy five per cent. of the net offer to qualified institutional buyers and to refund the full subscription money if it fails to do so.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s23825]
+The minimum promoters' contribution lock-in was originally set at three years from the date of commencement of commercial production or allotment, whichever is later. This was subsequently substituted by the SEBI (Issue of Capital and Disclosure Requirements) (Third Amendment) Regulations, 2021, w.e.f. 13.08.2021, replacing the three-year lock-in with eighteen months from the date of allotment in the initial public offer (except where proceeds are used for capital expenditure).
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s33387]
+The SEBI (ICDR) Regulations, 2018 were amended as follows in relation to the draft letter of offer: Prior to 08.03.2025, the draft letter of offer was required to be filed with the Board. By the SEBI (ICDR) (Amendment) Regulations, 2025 w.e.f. 08.03.2025, the requirement was changed such that the draft letter of offer is filed with the stock exchange(s) instead of the Board.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s40896]
+These regulations may be called the Securities and Exchange Board of India (Issue of Capital and Disclosure Requirements) Regulations, 2018. They shall come into force on the sixtieth day from the date of its publication in the Official Gazette. The definition of 'key managerial personnel' was substituted by the SEBI (Issue of Capital and Disclosure Requirements) (Amendment) Regulations, 2023, w.e.f. 31.01.2023. Prior to its substitution, 'key managerial personnel' referred to officers forming part of the core management team excluding board of directors.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s41424]
+In an issue made through the book building process, the issuer may allocate up to sixty per cent. of the portion available for allocation to qualified institutional buyers to anchor investors. One-third of the anchor investor portion shall be reserved for domestic mutual funds. The bidding for anchor investors shall open one day before the issue opening date.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s49594]
+The promoters shall hold at least twenty per cent. of the post-issue capital: Provided that in case the post-issue shareholding of the promoters is less than twenty per cent., alternative investment funds, or foreign venture capital investors, or scheduled commercial banks, or public financial institutions, or insurance companies registered with the Insurance Regulatory and Development Authority of India or any non-individual public shareholder holding at least five per cent. of the post-issue capital may contribute to meet the shortfall in minimum contribution as specified for the promoters, subject to a maximum of ten per cent. of the post-issue capital.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s57383]
+In an issue made through the book building process, the issuer may allocate up to sixty per cent. of the portion available for allocation to qualified institutional buyers to anchor investors in accordance with these regulations. One-third of the anchor investor portion shall be reserved for domestic mutual funds.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s65114]
+The SEBI (ICDR) Regulations 2018 superseded the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2009. The 2018 regulations were notified on the 60th day from publication. The definition of 'financial year' was inserted by the SEBI (ICDR) (Amendment) Regulations, 2025 w.e.f. 08.03.2025. Prior to this amendment, the ICDR Regulations 2018 did not contain an explicit definition of 'financial year' as a standalone defined term.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s79620]
+An issuer shall be eligible to make an initial public offer only if: (a) it has net tangible assets of at least three crore rupees, calculated on a restated and consolidated basis, in each of the preceding three full years (of twelve months each), of which not more than fifty per cent. are held in monetary assets; (b) it has an average operating profit of at least fifteen crore rupees, calculated on a restated and consolidated basis, during the preceding three years (of twelve months each), with operating profit in each of these preceding three years; (c) it has a net worth of at least one crore rupees in each of the preceding three full years (of twelve months each), calculated on a restated and consolidated basis.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s85923]
+The definition of 'associate' in SEBI ICDR Regulations was substituted by the SEBI (ICDR) (Amendment) Regulations, 2025, w.e.f. 08.03.2025. Prior to its substitution, 'associate' was defined as 'a person which is an associate of the issuer and as defined under the Companies Act, 2013'. After the amendment, 'associate' means a person or any entity which is an associate under sub-section (6) of section 2 of the Companies Act, 2013 or under the applicable accounting standards.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s93435]
+An anchor investor means a qualified institutional buyer who makes an application for a value of at least ten crore rupees in a public issue on the main board made through the book building process in accordance with these regulations or makes an application for a value of at least two crore rupees for an issue made in accordance with Chapter IX of these regulations.
+
+[SEBI_2018_securities_and_exchange_board_of_india_issue_of_capital_063#s95999]
+The term 'innovators growth platform' was substituted by the SEBI (ICDR) (Second Amendment) Regulations, 2019, w.e.f 05.04.2019. Prior to its substitution, it was referred to as 'institutional trading platform' and was defined as the trading platform for listing and trading of specified securities of issuers that comply with the eligibility criteria specified in regulation 288. After the amendment, it is defined as the trading platform for listing and trading of specified securities of issuers that comply with the eligibility criteria specified in regulation 283.

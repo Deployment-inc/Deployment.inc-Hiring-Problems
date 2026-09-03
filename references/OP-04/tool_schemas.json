@@ -1,0 +1,275 @@
+[
+  {
+    "name": "lookup_loan",
+    "description": "Fetch a loan row plus the owning customer's name.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "loan_id"
+      ]
+    }
+  },
+  {
+    "name": "payment_history",
+    "description": "Recent payments on a loan, newest first.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        },
+        "limit": {
+          "type": "integer",
+          "default": 12
+        }
+      },
+      "required": [
+        "loan_id"
+      ]
+    }
+  },
+  {
+    "name": "verify_identity",
+    "description": "Verify the customer with the last four digits of the phone number on file. Required before any money movement.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "customer_id": {
+          "type": "string"
+        },
+        "last4_phone": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "customer_id",
+        "last4_phone"
+      ]
+    }
+  },
+  {
+    "name": "schedule_payment",
+    "description": "Schedule a payment of `amount` on `due_on` (YYYY-MM-DD).",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        },
+        "amount": {
+          "type": "number"
+        },
+        "due_on": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "loan_id",
+        "amount",
+        "due_on"
+      ]
+    }
+  },
+  {
+    "name": "cancel_autopay",
+    "description": "Turn off autopay on a loan.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "loan_id"
+      ]
+    }
+  },
+  {
+    "name": "waive_fee",
+    "description": "Waive an applied fee, subject to the policy cap.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "fee_id": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "fee_id"
+      ]
+    }
+  },
+  {
+    "name": "apply_hardship_plan",
+    "description": "Apply a hardship plan for a number of months.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        },
+        "months": {
+          "type": "integer"
+        }
+      },
+      "required": [
+        "loan_id",
+        "months"
+      ]
+    }
+  },
+  {
+    "name": "raise_dispute",
+    "description": "Open a dispute against a specific payment.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        },
+        "payment_id": {
+          "type": "string"
+        },
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "loan_id",
+        "payment_id",
+        "reason"
+      ]
+    }
+  },
+  {
+    "name": "close_dispute",
+    "description": "Close a dispute with outcome 'upheld' or 'rejected'.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "dispute_id": {
+          "type": "string"
+        },
+        "outcome": {
+          "type": "string",
+          "enum": [
+            "upheld",
+            "rejected"
+          ]
+        }
+      },
+      "required": [
+        "dispute_id",
+        "outcome"
+      ]
+    }
+  },
+  {
+    "name": "request_document",
+    "description": "Ask the customer for a document of a given kind.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "customer_id": {
+          "type": "string"
+        },
+        "kind": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "customer_id",
+        "kind"
+      ]
+    }
+  },
+  {
+    "name": "send_statement",
+    "description": "Email a loan statement to an address.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "loan_id": {
+          "type": "string"
+        },
+        "to_email": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "loan_id",
+        "to_email"
+      ]
+    }
+  },
+  {
+    "name": "update_contact",
+    "description": "Update the phone and/or email on a customer record.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "customer_id": {
+          "type": "string"
+        },
+        "phone": {
+          "type": [
+            "string",
+            "null"
+          ]
+        },
+        "email": {
+          "type": [
+            "string",
+            "null"
+          ]
+        }
+      },
+      "required": [
+        "customer_id"
+      ]
+    }
+  },
+  {
+    "name": "escalate",
+    "description": "Hand the case to a human servicing agent.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "reason": {
+          "type": "string"
+        }
+      },
+      "required": [
+        "reason"
+      ]
+    }
+  },
+  {
+    "name": "commit",
+    "description": "End the case with a summary and the list of actions taken.",
+    "parameters": {
+      "type": "object",
+      "properties": {
+        "summary": {
+          "type": "string"
+        },
+        "actions_taken": {
+          "type": "array",
+          "items": {
+            "type": "string"
+          }
+        }
+      },
+      "required": [
+        "summary",
+        "actions_taken"
+      ]
+    }
+  }
+]

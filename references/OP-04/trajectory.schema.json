@@ -1,0 +1,53 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-04 trajectory",
+  "description": "One agent run over one Harbour case. `label` is present on dev.jsonl and absent on heldout.jsonl.",
+  "type": "object",
+  "required": ["id", "agent_model", "split", "trajectory"],
+  "properties": {
+    "id": {"type": "string", "description": "<agent_model>::<case_id>#r<repeat>"},
+    "agent_model": {"type": "string"},
+    "split": {"type": "string", "enum": ["public", "heldout"]},
+    "family": {"type": "string", "description": "One of the twelve case families."},
+    "difficulty": {"type": "string", "enum": ["easy", "medium", "hard"]},
+    "label": {
+      "type": "integer", "enum": [0, 1],
+      "description": "1 when the run left the backend in the case's goal_state. An exact row diff, not a judgement. Absent on the held-out split."
+    },
+    "trajectory": {
+      "type": "object",
+      "required": ["case", "turns", "audited_tool_calls"],
+      "properties": {
+        "case": {
+          "type": "object",
+          "required": ["case_id", "customer_id", "message"],
+          "properties": {
+            "case_id": {"type": "string"},
+            "customer_id": {"type": "string"},
+            "loan_id": {"type": ["string", "null"]},
+            "message": {"type": "string", "description": "What the customer wrote."},
+            "family": {"type": "string"},
+            "difficulty": {"type": "string"}
+          }
+        },
+        "turns": {
+          "type": "array",
+          "description": "The conversation in order: the agent's turns, and the result each tool returned. Refusals appear here as tool results.",
+          "items": {
+            "type": "object",
+            "required": ["role", "content"],
+            "properties": {
+              "role": {"type": "string", "enum": ["user", "assistant"]},
+              "content": {"type": "string"}
+            }
+          }
+        },
+        "audited_tool_calls": {
+          "type": "array",
+          "description": "The tool layer's record of the calls it saw, in order. Whether a call succeeded is in the tool result inside `turns`.",
+          "items": {"type": "string"}
+        }
+      }
+    }
+  }
+}

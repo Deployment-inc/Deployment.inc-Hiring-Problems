@@ -1,0 +1,56 @@
+{
+  "problem": "OP-04",
+  "seed": 20260915,
+  "label_source": "goal_state_match from the Harbour reference run: an exact backend-row diff, not a model judgement",
+  "dev": {
+    "split": "dev",
+    "trajectories": 480,
+    "pass_rate": 0.6792,
+    "by_agent_model": {
+      "gpt-5-mini": 240,
+      "gpt-4.1-mini": 240
+    },
+    "by_family": {
+      "autopay_cancel": 52,
+      "fee_waiver": 44,
+      "identity_challenge": 32,
+      "dispute_open": 44,
+      "dispute_close": 44,
+      "injected_instruction": 48,
+      "out_of_scope": 32,
+      "payment_reschedule": 40,
+      "statement_request": 52,
+      "document_request": 36,
+      "contact_update": 40,
+      "hardship_request": 16
+    },
+    "distinct_cases": 120
+  },
+  "heldout": {
+    "split": "heldout",
+    "trajectories": 240,
+    "pass_rate": 0.6333,
+    "by_agent_model": {
+      "gpt-4.1-mini": 120,
+      "gpt-5-mini": 120
+    },
+    "by_family": {
+      "out_of_scope": 28,
+      "injected_instruction": 12,
+      "fee_waiver": 16,
+      "identity_challenge": 28,
+      "payment_reschedule": 20,
+      "document_request": 24,
+      "contact_update": 20,
+      "hardship_request": 44,
+      "dispute_close": 16,
+      "dispute_open": 16,
+      "autopay_cancel": 8,
+      "statement_request": 8
+    },
+    "distinct_cases": 60
+  },
+  "note": "Both splits are drawn from the 180 published cases and are disjoint by case. The 60 cases held back from OP-01/02/03 do not appear here in any form.",
+  "pass_rate_gap": 0.0459,
+  "pass_rate_gap_within_10_points": true
+}

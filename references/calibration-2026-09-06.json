@@ -1,0 +1,345 @@
+{
+  "date": "2026-09-06",
+  "status": "measured attempts, not qualifying solutions",
+  "harbour": {
+    "gpt-4.1-mini-2025-04-14": {
+      "all": {
+        "n": 240,
+        "successes": 154,
+        "success_rate": 0.6416666666666667,
+        "resolved_non_deferred": 86,
+        "deferred": 126,
+        "errors": 0,
+        "cost_usd": 1.023665,
+        "cost_per_resolved_case": 0.011903083720930243,
+        "latency_p95_s": 11.728,
+        "policy_violations": 1,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.0951704545454546,
+        "calls_with_missing_usage": 0
+      },
+      "public": {
+        "n": 180,
+        "successes": 117,
+        "success_rate": 0.65,
+        "resolved_non_deferred": 65,
+        "deferred": 96,
+        "errors": 0,
+        "cost_usd": 0.760323,
+        "cost_per_resolved_case": 0.01169728000000001,
+        "latency_p95_s": 11.2968,
+        "policy_violations": 0,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.1097549346810336,
+        "calls_with_missing_usage": 0
+      },
+      "heldout": {
+        "n": 60,
+        "successes": 37,
+        "success_rate": 0.6166666666666667,
+        "resolved_non_deferred": 21,
+        "deferred": 30,
+        "errors": 0,
+        "cost_usd": 0.263342,
+        "cost_per_resolved_case": 0.012540095238095239,
+        "latency_p95_s": 11.8894,
+        "policy_violations": 1,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.0660103141115798,
+        "calls_with_missing_usage": 0
+      }
+    },
+    "gpt-5-mini-2025-08-07": {
+      "all": {
+        "n": 240,
+        "successes": 154,
+        "success_rate": 0.6416666666666667,
+        "resolved_non_deferred": 96,
+        "deferred": 68,
+        "errors": 0,
+        "cost_usd": 0.890384,
+        "cost_per_resolved_case": 0.009274835937500003,
+        "latency_p95_s": 16.2672,
+        "policy_violations": 5,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.042962962962963,
+        "calls_with_missing_usage": 0
+      },
+      "public": {
+        "n": 180,
+        "successes": 116,
+        "success_rate": 0.6444444444444445,
+        "resolved_non_deferred": 74,
+        "deferred": 50,
+        "errors": 0,
+        "cost_usd": 0.66547,
+        "cost_per_resolved_case": 0.008992831081081086,
+        "latency_p95_s": 16.2454,
+        "policy_violations": 4,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.042962962962963,
+        "calls_with_missing_usage": 0
+      },
+      "heldout": {
+        "n": 60,
+        "successes": 38,
+        "success_rate": 0.6333333333333333,
+        "resolved_non_deferred": 22,
+        "deferred": 18,
+        "errors": 0,
+        "cost_usd": 0.224915,
+        "cost_per_resolved_case": 0.01022339772727273,
+        "latency_p95_s": 16.9456,
+        "policy_violations": 1,
+        "identity_violations": 0,
+        "max_case_token_ratio": 2.009290953545232,
+        "calls_with_missing_usage": 0
+      }
+    },
+    "migration": {
+      "paired_cases": 180,
+      "decision_agreement": 0.5611111111111111
+    },
+    "billing": {
+      "observed_usd": 4.647676,
+      "usage_unavailable_calls": 0,
+      "calls": 3794,
+      "cap_usd": 8
+    }
+  },
+  "OP-03": {
+    "gpt-4.1-mini-2025-04-14": {
+      "public": {
+        "evidence_status": "artifact_consistency_only",
+        "note_on_trust": "Only a reviewer-controlled gateway and backend can attest these input files; candidate files alone do not prove performance.",
+        "cases": 180,
+        "resolved": 65,
+        "deferred": 96,
+        "policy_escalation_required_cases": 74,
+        "automatable_cases": 106,
+        "elective_deferrals": 33,
+        "elective_deferral_rate": 0.3113,
+        "success_rate": 0.65,
+        "resolved_rate": 0.3611,
+        "deferral_rate": 0.5333,
+        "total_cost_usd": 0.760323,
+        "total_tokens": 1824446,
+        "cost_per_resolved_case": 0.011697,
+        "tokens_per_resolved_case": 28068.4,
+        "latency_p50_s": 6.714,
+        "latency_p95_s": 11.297,
+        "cases_missing_from_ledger": 0
+      },
+      "heldout": {
+        "evidence_status": "artifact_consistency_only",
+        "note_on_trust": "Only a reviewer-controlled gateway and backend can attest these input files; candidate files alone do not prove performance.",
+        "cases": 60,
+        "resolved": 21,
+        "deferred": 30,
+        "policy_escalation_required_cases": 26,
+        "automatable_cases": 34,
+        "elective_deferrals": 11,
+        "elective_deferral_rate": 0.3235,
+        "success_rate": 0.6167,
+        "resolved_rate": 0.35,
+        "deferral_rate": 0.5,
+        "total_cost_usd": 0.263342,
+        "total_tokens": 633275,
+        "cost_per_resolved_case": 0.01254,
+        "tokens_per_resolved_case": 30156.0,
+        "latency_p50_s": 6.903,
+        "latency_p95_s": 11.889,
+        "cases_missing_from_ledger": 0
+      }
+    },
+    "gpt-5-mini-2025-08-07": {
+      "public": {
+        "evidence_status": "artifact_consistency_only",
+        "note_on_trust": "Only a reviewer-controlled gateway and backend can attest these input files; candidate files alone do not prove performance.",
+        "cases": 180,
+        "resolved": 74,
+        "deferred": 50,
+        "policy_escalation_required_cases": 74,
+        "automatable_cases": 106,
+        "elective_deferrals": 5,
+        "elective_deferral_rate": 0.0472,
+        "success_rate": 0.6444,
+        "resolved_rate": 0.4111,
+        "deferral_rate": 0.2778,
+        "total_cost_usd": 0.66547,
+        "total_tokens": 1369139,
+        "cost_per_resolved_case": 0.008993,
+        "tokens_per_resolved_case": 18501.9,
+        "latency_p50_s": 9.81,
+        "latency_p95_s": 16.245,
+        "cases_missing_from_ledger": 0
+      },
+      "heldout": {
+        "evidence_status": "artifact_consistency_only",
+        "note_on_trust": "Only a reviewer-controlled gateway and backend can attest these input files; candidate files alone do not prove performance.",
+        "cases": 60,
+        "resolved": 22,
+        "deferred": 18,
+        "policy_escalation_required_cases": 26,
+        "automatable_cases": 34,
+        "elective_deferrals": 1,
+        "elective_deferral_rate": 0.0294,
+        "success_rate": 0.6333,
+        "resolved_rate": 0.3667,
+        "deferral_rate": 0.3,
+        "total_cost_usd": 0.224915,
+        "total_tokens": 456587,
+        "cost_per_resolved_case": 0.010223,
+        "tokens_per_resolved_case": 20754.0,
+        "latency_p50_s": 10.05,
+        "latency_p95_s": 16.946,
+        "cases_missing_from_ledger": 0
+      }
+    }
+  },
+  "OP-04": {
+    "dev": {
+      "n": 480,
+      "invalid_or_missing": 1,
+      "balanced_accuracy": 0.7728,
+      "mcc": 0.6022,
+      "ece": 0.0621,
+      "confidence_auroc": 0.6004
+    },
+    "heldout": {
+      "n": 240,
+      "invalid_or_missing": 0,
+      "balanced_accuracy": 0.7658,
+      "mcc": 0.5885,
+      "ece": 0.081,
+      "confidence_auroc": 0.5565
+    },
+    "private": {
+      "n": 360,
+      "invalid_or_missing": 0,
+      "balanced_accuracy": 0.7865,
+      "mcc": 0.6469,
+      "ece": 0.0424,
+      "confidence_auroc": 0.5725
+    }
+  },
+  "OP-05": {
+    "dev": {
+      "grader_version": "2.0",
+      "n": 146,
+      "judge_calls": 315,
+      "judge_enabled": true,
+      "judge_errors": 0,
+      "schema_valid_rate": 0.9589,
+      "answer_accuracy": 0.8067,
+      "citation_verbatim_rate": 0.9904,
+      "citation_support_rate": 0.5837,
+      "answered_rate_on_answerable": 0.9076,
+      "ooc_refusal_rate": 0.0,
+      "fabricated_count": 6,
+      "fabrication_review_complete": true,
+      "not_permitted_rate": 0.9048,
+      "role_violations": 0,
+      "role_semantic_review_complete": false,
+      "cost_per_question_usd": null,
+      "latency_p95_ms": null,
+      "measurement_note": "Cost, latency, semantic role leakage and freshness need independent runtime/reviewer evidence.",
+      "slices": {
+        "contradiction": {
+          "n": 8,
+          "answer_accuracy": 0.875
+        },
+        "temporal": {
+          "n": 19,
+          "answer_accuracy": 0.7895
+        }
+      }
+    },
+    "heldout": {
+      "grader_version": "2.0",
+      "n": 272,
+      "judge_calls": 532,
+      "judge_enabled": true,
+      "judge_errors": 0,
+      "schema_valid_rate": 0.9375,
+      "answer_accuracy": 0.7619,
+      "citation_verbatim_rate": 0.9885,
+      "citation_support_rate": 0.6963,
+      "answered_rate_on_answerable": 0.8905,
+      "ooc_refusal_rate": 0.0,
+      "fabricated_count": 9,
+      "fabrication_review_complete": false,
+      "not_permitted_rate": 0.9808,
+      "role_violations": 0,
+      "role_semantic_review_complete": false,
+      "cost_per_question_usd": null,
+      "latency_p95_ms": null,
+      "measurement_note": "Cost, latency, semantic role leakage and freshness need independent runtime/reviewer evidence.",
+      "slices": {
+        "contradiction": {
+          "n": 30,
+          "answer_accuracy": 0.8667
+        },
+        "temporal": {
+          "n": 45,
+          "answer_accuracy": 0.7111
+        }
+      }
+    }
+  },
+  "OP-06": {
+    "private": {
+      "counts": {
+        "clean": 2000,
+        "noisy": 300,
+        "hostile": 9,
+        "predictions": 2309,
+        "missing_predictions": 0
+      },
+      "intent": {
+        "accuracy_all": 0.3683,
+        "accuracy_clean": 0.378,
+        "accuracy_noisy": 0.3033,
+        "macro_f1_all": 0.4264,
+        "macro_f1_clean": 0.439
+      },
+      "action": {
+        "accuracy_all": 0.3904,
+        "accuracy_clean": 0.3995,
+        "accuracy_noisy": 0.33,
+        "macro_f1_all": 0.2936,
+        "matched_clean_accuracy": null,
+        "matched_noisy_gap": null,
+        "noisy_gap": 0.0695
+      },
+      "policy": {
+        "predicted_actions_scored": 2300,
+        "violations": 346,
+        "violation_rate": 0.1504,
+        "gold_violation_rate": 0.0935
+      },
+      "confidence": {
+        "all": {
+          "n": 2300,
+          "kept_in_top70": 2300,
+          "threshold": 0.05,
+          "overall_accuracy": 0.3904,
+          "top70_accuracy": 0.3904,
+          "distinct_confidences": 1249
+        },
+        "top70_error_ratio": 1.0
+      }
+    }
+  },
+  "evidence_sha256": {
+    "gateway-ledger.jsonl": "a158958ae20b509da3987e15435f0d7a7a57e81402c0b776342c7c0fe5142241",
+    "harbour-measurements.json": "46f295bbb0fce1268f480f65745b0f4a67d2eeb25b040713a69b954e16482425",
+    "OP-04-live-score.json": "26af41409317f838cfd397a5c2c9f88ae0ca37e2a940c8281d5f9554aa8868dd",
+    "OP-04-heldout-score.json": "295aea0ff1863849221addff51ee75b852b03e47cac94c404f96c0fb6d41e956",
+    "OP-04-private-score.json": "87ac401f3dfe3f7690fd74339448b976b63addd9d280fcc4b143b2640d8ae355",
+    "OP-05-live-score.json": "2d26218204bf08136c59dc0108387c81a3f24faf93660cee9e9dcd9eeb55642f",
+    "OP-05-heldout-score.json": "739764877ea2f91f70efe2d201109f44c17ff3197f08801056254446bfdc525d",
+    "OP-06-private-all-score.json": "2a3628847a3f62839f8d9f1e63526af5a9569c30f6bc8563830214f55c52d441"
+  },
+  "runner_sha256": "4fde0f2e4e6fb83d77e9990ccd2bd7d71bfd66ef0d1a41b6e6d2176bb01d959b"
+}

@@ -1,0 +1,23 @@
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s05455]
+The SEBI (LODR) Regulations, 2015 were published in the Official Gazette on 2nd September 2015, and shall come into force on the ninetieth day from the date of their publication: Provided that the provisions of sub-regulation (4) of regulation 23 and regulation 31A shall come into force on the date of notification of these regulations. The definition of 'mainstream media' was inserted by the SEBI (LODR) (Second Amendment) Regulations, 2023 w.e.f. 15.7.2023.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s15291]
+The term 'main board' in SEBI LODR Regulations was originally cross-referenced to regulation 106N of the SEBI (ICDR) Regulations, 2009. This cross-reference was substituted by the SEBI (LODR) (Second Amendment) Regulations, 2021 w.e.f. 5.5.2021 to refer instead to regulation 2(ee) of the SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s34040]
+A transaction with a related party shall be considered material if the transaction(s) to be entered into individually or taken together with previous transactions during a financial year, exceeds Rupees one thousand crore or ten per cent. of the annual consolidated turnover of the listed entity as per the last audited financial statements of the listed entity, whichever is lower.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s55879]
+The audit committee shall have minimum three directors as members. At least two-thirds of the members of audit committee shall be independent directors. All members of audit committee shall be financially literate and at least one member shall have accounting or related financial management expertise. The audit committee shall meet at least four times in a financial year and not more than one hundred and twenty days shall elapse between two consecutive meetings.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s56975]
+The definition of 'non-convertible debt securities' in SEBI LODR Regulations was substituted by the SEBI (LODR) (Fifth Amendment) Regulations, 2021 w.e.f. 7.9.2021. Before substitution, clause (t) defined non-convertible debt securities as 'debt securities' as defined under the SEBI (Issue and Listing of Debt Securities) Regulations, 2008. After the amendment, it aligned with the definition under the SEBI (Issue and Listing of Non-Convertible Securities) Regulations, 2021.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s85136]
+The audit committee shall have minimum three directors as members. At least two-thirds of the members of audit committee shall be independent directors. The audit committee shall meet at least four times in a financial year and not more than one hundred and twenty days shall elapse between two consecutive meetings.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s86027]
+The SEBI LODR Regulations, 2015 were published on 2 September 2015. The provision regarding 'fugitive economic offender' was inserted by the SEBI (LODR) (Sixth Amendment) Regulations, 2018, w.e.f. 16.11.2018, following the enactment of the Fugitive Economic Offenders Act, 2018. Prior to November 2018, the LODR Regulations did not contain any reference to fugitive economic offenders.
+
+[SEBI_2015_securities_and_exchange_board_of_india_listing_obligati_067#s87917]
+The maximum time gap of one hundred and twenty days between any two consecutive board meetings shall apply to listed entities. A listed entity whose paid-up share capital exceeds rupees ten crore or net worth exceeds rupees twenty-five crore, as at the end of the previous financial year, shall comply with the requirement of having at least one woman director on the board of directors.

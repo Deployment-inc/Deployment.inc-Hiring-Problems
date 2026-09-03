@@ -1,0 +1,69 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-05 question record (questions_*.jsonl)",
+  "type": "object",
+  "required": [
+    "id",
+    "question",
+    "role"
+  ],
+  "properties": {
+    "id": {
+      "type": "string"
+    },
+    "question": {
+      "type": "string"
+    },
+    "role": {
+      "type": "string",
+      "enum": [
+        "public",
+        "ops",
+        "legal"
+      ],
+      "description": "the requester's role"
+    },
+    "expected_status": {
+      "type": "string",
+      "enum": [
+        "answered",
+        "not_in_corpus",
+        "not_permitted"
+      ]
+    },
+    "gold_answer": {
+      "type": "string",
+      "description": "present when expected_status == answered"
+    },
+    "gold_citations": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "doc_id",
+          "section"
+        ],
+        "properties": {
+          "doc_id": {
+            "type": "string"
+          },
+          "section": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "as_of": {
+      "type": "string",
+      "format": "date",
+      "description": "the date the question is asked; matters when documents supersede each other"
+    },
+    "tags": {
+      "type": "array",
+      "items": {
+        "type": "string"
+      }
+    }
+  },
+  "description": "Public input schema. Development and private grading gold also require expected_status; held-out input omits it."
+}

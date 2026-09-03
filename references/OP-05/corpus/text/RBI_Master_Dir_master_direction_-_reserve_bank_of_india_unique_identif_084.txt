@@ -1,0 +1,37 @@
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s22661]
+List of circulars superseded: (1) FMRD.FMID No.14/11.01.007/2016-17 dated June 01, 2017; (2) dated November 29, 2018; (3) dated April 26, 2019; (4) dated March 27, 2020; (5) dated February 18, 2026. The Master Direction was issued March 27, 2026.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s26368]
+Entities without an LEI code shall not be eligible to undertake transactions in the financial markets regulated by the Reserve Bank. Entities shall ensure that their LEI code is considered current under the rules of the global LEI system and has not lapsed.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s35496]
+For users / clients undertaking non-derivative foreign exchange transactions, the LEI code shall be applicable only for transactions involving an amount equivalent to or exceeding USD one million or equivalent thereof in other currencies.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s38787]
+Passage A:
+Section A of the Directions on implementation of Legal Entity Identifier (LEI) shall come into force with immediate effect.
+
+Passage B:
+Section B of the Directions on implementation of Unique Transaction Identifier (UTI) shall come into effect from January 01, 2027.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s41186]
+List of circulars superseded vide Master Direction - Reserve Bank of India (Unique Identifiers in Financial Markets) Directions, 2026: (1) FMRD.FMID No.14/11.01.007/2016-17 dated June 01, 2017; (2) FMRD.FMID.No.10/11.01.007/2018-19 dated November 29, 2018; (3) FMRD.FMID.No.15/11.01.007/2018-19 dated April 26, 2019; (4) FMRD.FMID.No.24/11.01.007/2019-20 dated March 27, 2020; (5) CO.FMRD.MIOD.No.8/11.01.057/2025-26 dated February 18, 2026.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s63993]
+Passage A:
+Entities without an LEI code shall not be eligible to undertake transactions in the financial markets regulated by the Reserve Bank.
+
+Passage B:
+Non-residents that are not legal entities in their country of incorporation (e.g., funds operated by a non-resident parent / management company that are each registered as a Foreign Portfolio Investor) may use the LEI code of the parent / management company.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s70231]
+Section A of the Directions on implementation of Legal Entity Identifier (LEI) shall come into force with immediate effect. Section B of the Directions on implementation of Unique Transaction Identifier (UTI) shall come into effect from January 01, 2027.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s75571]
+UTI shall be generated / reported for all transactions in OTC derivatives market undertaken in terms of the Governing Directions. The directions shall be applicable to OTC derivative transactions entered into on or after the date the directions come into effect. Section B on UTI shall come into effect from January 01, 2027.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s85497]
+For transactions that are reportable in India and in a foreign jurisdiction and the foreign jurisdiction has a sooner reporting timeline, market participants may undertake reasonable efforts to ensure that the UTI is obtained and reported within the reporting deadline for the transaction. In case the market participant is unable to obtain the UTI within the reporting deadline, the market participant may obtain and submit the UTI to CCIL-TR at the earliest thereafter, but in any case, within five Mumbai business days from the date of the transaction.
+
+[RBI_Master_Dir_master_direction_-_reserve_bank_of_india_unique_identif_084#s93142]
+Section A of the Directions on implementation of Legal Entity Identifier (LEI) shall come into force with immediate effect. Section B of the Directions on implementation of Unique Transaction Identifier (UTI) shall come into effect from January 01, 2027. The Master Direction was issued on March 27, 2026.

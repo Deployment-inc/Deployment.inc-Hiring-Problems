@@ -1,0 +1,44 @@
+{
+  "problem": "OP-05",
+  "seed": 20260915,
+  "source": {
+    "dataset": "Rajveer-code/IndiaFinBench",
+    "url": "https://huggingface.co/datasets/Rajveer-code/IndiaFinBench",
+    "licence": "CC BY 4.0"
+  },
+  "corpus": {
+    "documents": 34,
+    "passages": 391,
+    "chars": 163747,
+    "visibility": {
+      "ops": 3,
+      "public": 25,
+      "legal": 6
+    }
+  },
+  "questions": {
+    "total": 418,
+    "dev": 146,
+    "heldout": 272,
+    "by_status": {
+      "answered": 329,
+      "not_permitted": 73,
+      "not_in_corpus": 16
+    },
+    "by_task_type": {
+      "regulatory_interpretation": 174,
+      "numerical_reasoning": 92,
+      "out_of_corpus": 16,
+      "contradiction_detection": 46,
+      "temporal_reasoning": 78,
+      "internal_policy": 12
+    },
+    "by_role": {
+      "ops": 134,
+      "public": 142,
+      "legal": 142
+    }
+  },
+  "dropped_context_bound_questions": 16,
+  "note": "Questions that referred to a supplied passage were dropped: retrieval removes the passage, which would leave them unanswerable."
+}

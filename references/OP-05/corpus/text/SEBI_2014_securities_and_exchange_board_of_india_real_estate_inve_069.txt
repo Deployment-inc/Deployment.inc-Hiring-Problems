@@ -1,0 +1,5 @@
+[SEBI_2014_securities_and_exchange_board_of_india_real_estate_inve_069#s46955]
+A REIT shall have a minimum asset size of five hundred crore rupees or more for the purpose of issuing units to at least two hundred investors so as to be listed on a recognised stock exchange. The net asset value or NAV means the value of the REIT assets reduced by the external debt divided by the number of outstanding units as on a particular date.
+
+[SEBI_2014_securities_and_exchange_board_of_india_real_estate_inve_069#s61733]
+The term 'sponsor group' was substituted for 'sponsor(s)' by the SEBI (Real Estate Investment Trusts) (Amendment) Regulations, 2016. Prior to this amendment, the relevant provisions referred only to 'sponsors'. The term 'inducted sponsor' was inserted by a subsequent amendment and means any person who has been inducted as a sponsor of the REIT after its initial registration. The term 're-designated sponsor' was further added in a later amendment.

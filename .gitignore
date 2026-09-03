@@ -1,0 +1,17 @@
+*.log
+*.pyc
+*.sqlite
+.DS_Store
+.claude/
+.env
+.env.*
+.pytest_cache/
+__pycache__/
+eval/eval_report.json
+node_modules/
+traces/
+
+# Runtime SQLite files
+*.db
+*.db-shm
+*.db-wal

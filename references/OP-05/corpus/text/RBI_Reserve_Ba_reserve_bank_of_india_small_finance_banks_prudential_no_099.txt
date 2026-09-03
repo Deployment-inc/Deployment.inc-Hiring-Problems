@@ -1,0 +1,127 @@
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s10547]
+Table 1: Bucket B4 — Tier 1 Capital Ratio as at the end of previous FY: Above 11.5% and up to 13.5% — Dividend allowed as a % of adjusted PAT: 40.
+
+Illustration 1: Tier 1 Capital ratio as on March 31, 20X1 (D): 11.72%. The CET1 ratio falls in bucket B4. Adjusted PAT: ₹13,750 crore. Max payable as per Table 1 (40% of 13,750) (F): 5,500.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s12627]
+Annex I: Illustration 1: Computation of maximum permissible dividend for FY 20X1-X2. Net profit (PAT) for FY 20X1-X2 (A): Rs17,000 crore. Net NPAs as on March 31, 20X2 (B): Rs6,500 crore. Adjusted PAT, i.e., (C) = (A) - 50% of (B): Rs13,750 crore. Tier 1 Capital ratio as on March 31, 20X1 (D): 11.72% (falls in Bucket B4). 75% of PAT (E): Rs12,750 crore. Max payable as per Table 1 (40% of 13,750) (F): Rs5,500 crore. Maximum Eligible Dividend (i.e., Lower of E or F): Rs5,500 crore.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s12701]
+B. Eligibility criteria. 7. A bank shall meet the following prudential requirements, to be eligible to declare dividends. (1) The bank was in compliance with the applicable regulatory capital requirement as at the end of the previous financial year and shall continue to be in compliance as at the end of the financial year during which the dividend is proposed to be paid. (2) The regulatory capital of the bank shall not fall below the applicable regulatory capital requirement even after the payment of dividend.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s16617]
+Illustration 3: Net profit (PAT) for FY 20X1-X2 (A): ₹1,500 crore. Interim dividend paid for FY 20X1-20X2 (H): ₹500 crore. Maximum Eligible Dividend (G): ₹1,125 crore. As the bank has already paid interim dividend of ₹500 crore, the final dividend shall not be more than (G) - (H).
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s17304]
+Illustration 1: Net profit (PAT) for FY 20X1-X2 (A): ₹17,000 crore. Maximum Eligible Dividend (i.e., Lower of E or F): 5,500. Maximum Eligible Dividend as percentage of PAT: 32.35%.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s20443]
+Annex I: Illustration 3: Computation of maximum eligible dividend for FY 20X1-X2. Net profit (PAT) for FY 20X1-X2 (A): Rs1,500 crore. Net NPAs as on March 31, 20X2 (B): Rs300 crore. Adjusted PAT, i.e., (C) = (A) - 50% of (B): Rs1,350 crore. Tier 1 capital ratio as on March 31, 20X1 (D): 24.36% (falls in Bucket B10). 75% of PAT (E): Rs1,125 crore. Maximum payable as per Table (100% of 1,350) (F): Rs1,350 crore. Maximum Eligible Dividend (G = Lower of E or F): Rs1,125 crore. Interim dividend paid for FY 20X1-20X2 (H): Rs500 crore. As the bank has already paid interim dividend of Rs500 crore, the final dividend shall not be more than (G) - (H).
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s22462]
+C. Quantum of dividend payable. 8. A bank which satisfies the eligibility criteria laid down in paragraph 7 above may declare and pay dividend up to the limits prescribed under Table 1 below, but in aggregate not exceeding 75% of the PAT for the period for which the dividend is being proposed. Table 1: Bucket B4 — Tier 1 Capital Ratio above 11.5% and up to 13.5%: Dividend allowed as 40 per cent of adjusted PAT for the period.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s25842]
+Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividend) Directions, 2026 (RBI/2025-26/391, dated March 10, 2026) shall come into effect from Financial Year (FY) 2026-27. Annex III lists the circular repealed: DO R.ACC.REC.118/21-02-067/2025-26 dated November 28, 2025 — Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividends) Directions, 2025.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s26536]
+Passage A:
+Bucket B1: Tier 1 Capital Ratio as at the end of previous FY: Up to 7.5% — Dividend allowed as a % of adjusted PAT for the period: 0.
+
+Passage B:
+Bucket B10: Tier 1 Capital Ratio as at the end of previous FY: Above 19.5% — Dividend allowed as a % of adjusted PAT for the period: 100.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s26779]
+Illustration 3: Net profit (PAT) for FY 20X1-X2 (A): 1500. Net NPAs as on March 31, 20X2 (B): 300. Adjusted PAT, i.e., (C) = (A) - 50% of (B): 1,350. Tier 1 capital ratio as on March 31, 20X1 (D): 24.36%. The CET1 ratio falls in bucket B10. 75% of PAT (E): 1,125. Maximum payable as per Table (100% of 1,350) (F): 1,350. Maximum Eligible Dividend (i.e., G = Lower of E or F): 1,125. Interim dividend paid for FY 20X1-20X2 (H): 500. As the bank has already paid interim dividend of ₹500 crore, the final dividend shall not be more than (G) - (H).
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s27496]
+These Directions shall be called the Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividend) Directions, 2026. These Directions shall come into effect from Financial Year (FY) 2026-27.
+
+Annex III: Circular repealed — DOR.ACC.REC.118/21-02-067/2025-26 dated November 28, 2025.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s30174]
+A. Board oversight. 6. The Board of Directors while considering the proposal for declaration of dividend of a bank shall consider the following: (1) The divergence in asset classification and provisioning for Non-Performing Assets (NPAs), including its trend, as observed under supervisory findings of the Reserve Bank; (2) Auditors' Report to the financial statements, including modified opinion or Emphasis of Matter, for the financial year in which the dividend is proposed; (3) Current and projected capital position vis-à-vis applicable regulatory capital requirement; and (4) Long term growth plans.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s36102]
+A bank which satisfies the eligibility criteria may declare and pay dividend up to the limits prescribed under Table 1 below, but in aggregate not exceeding 75% of the PAT for the period for which the dividend is being proposed.
+
+Illustration 1: Net profit (PAT) for FY 20X1-X2 (A): ₹17,000 crore. 75% of PAT (E): ₹12,750. Max payable as per Table 1 (F): ₹5,500. Maximum Eligible Dividend (i.e., Lower of E or F): 5,500.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s40334]
+A bank declaring dividend shall report details thereof as per the format prescribed in Annex II. The report shall be furnished to the Department of Supervision of the Reserve Bank within a fortnight of declaration of dividend.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s47464]
+'Adjusted Profit After Tax (PAT)' means PAT of the financial year for which the dividend is proposed to be paid minus 50 per cent of Net NPA as on March 31 of the financial year for which the dividend is to be paid.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s50155]
+The Board of Directors while considering the proposal for declaration of dividend of a bank shall consider the following: (1) The divergence in asset classification and provisioning for Non-Performing Assets (NPAs), including its trend, as observed under supervisory findings of the Reserve Bank; (2) Auditors' Report to the financial statements, including modified opinion or Emphasis of Matter, for the financial year in which the dividend is proposed; (3) Current and projected capital position vis-a-vis applicable regulatory capital requirement; and (4) Long term growth plans.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s50692]
+E. Reporting system. 11. A bank declaring dividend shall report details thereof as per the format prescribed in Annex II. The report shall be furnished to the Department of Supervision of the Reserve Bank within a fortnight of declaration of dividend.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s58586]
+C. Quantum of dividend payable. 8. Table 1: Bucket B1 — Tier 1 Capital Ratio up to 7.5%: Dividend allowed as 0 per cent of adjusted PAT. Bucket B10 — Tier 1 Capital Ratio above 19.5%: Dividend allowed as 100 per cent of adjusted PAT for the period.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s59304]
+Annex I: Illustration 2: Computation of maximum permissible dividend for FY 20X1-X2. Net profit (PAT) for FY 20X1-X2 (A): Rs40,500 crore. Net NPAs as on March 31, 20X2 (B): Rs5,000 crore. Adjusted PAT, i.e., (C) = (A) - 50% of (B): Rs38,000 crore. Tier 1 Capital ratio as on March 31, 20X1 (D): 15% (falls in Bucket B5). 75% of PAT (E): Rs30,375 crore. Max payable as per Table 1 (50% of 38,000) (F): Rs19,000 crore. Maximum Eligible Dividend (i.e., Lower of E or F): Rs19,000 crore.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s59893]
+Passage A:
+Bucket B2: Tier 1 Capital Ratio above 7.5% and up to 9.5% — Dividend allowed: 20% of adjusted PAT.
+
+Passage B:
+Bucket B3: Tier 1 Capital Ratio above 9.5% and up to 11.5% — Dividend allowed: 30% of adjusted PAT.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s61473]
+B. Eligibility criteria. 7. A bank shall meet the following prudential requirements, to be eligible to declare dividends. (3) The bank shall have positive adjusted Profit After Tax (PAT) for the financial year for which the dividend is proposed. (4) The bank shall not be under any explicit restrictions for declaration of dividends from the Reserve Bank or any other authority.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s62841]
+Annex III — List of circulars repealed: DOR.ACC.REC.118/21-02-067/2025-26, dated November 28, 2025 — Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividends) Directions, 2025.
+
+These Directions shall be called the Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividend) Directions, 2026. These Directions shall come into effect from Financial Year (FY) 2026-27.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s64924]
+These Directions shall be applicable to Small Finance Banks (SFBs) (hereinafter collectively referred to as 'banks' and individually as a 'bank').
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s66142]
+Passage A:
+Notwithstanding such repeal, any action taken or purported to have been taken, or initiated under the repealed Directions, instructions, or guidelines shall continue to be governed by the provisions thereof.
+
+Passage B:
+These Directions shall come into effect from Financial Year (FY) 2026-27.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s67069]
+A bank which satisfies the eligibility criteria laid down in paragraph 7 above may declare and pay dividend up to the limits prescribed under Table 1 below, but in aggregate not exceeding 75% of the PAT for the period for which the dividend is being proposed.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s70035]
+A bank shall meet the following prudential requirements, to be eligible to declare dividends: (4) The bank shall not be under any explicit restrictions for declaration of dividends from the Reserve Bank or any other authority.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s73763]
+Illustration 2: Net profit (PAT) for FY 20X1-X2 (A): 40,500 crore. Net NPAs as on March 31, 20X2 (B): 5,000 crore. Adjusted PAT i.e., (C) = (A) - 50% of (B): 38,000 crore. Tier 1 Capital ratio as on March 31, 20X1 (D): 15%. The CET1 ratio falls in bucket B5.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s75497]
+C. Definitions. 4. In these Directions, unless the context states otherwise, the terms herein shall bear the meanings assigned to them below. (1) 'Adjusted Profit After Tax (PAT)' means PAT of the financial year for which the dividend is proposed to be paid minus 50 per cent of Net NPA as on March 31 of the financial year for which the dividend is to be paid.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s75514]
+Passage A:
+Any exceptional and / or extra-ordinary profits / income shall not be available for payment of dividend.
+
+Passage B:
+A bank shall not pay dividend out of net unrealised gains arising on fair valuation of Level 3 financial instruments (including derivatives).
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s76076]
+'Adjusted Profit After Tax (PAT)' means PAT of the financial year for which the dividend is proposed to be paid minus 50 per cent of Net NPA as on March 31 of the financial year for which the dividend is to be paid.
+
+Illustration 1: Net profit (PAT) for FY 20X1-X2 (A): ₹17,000 crore. Net NPAs as on March 31, 20X2 (B): ₹6,500 crore. Adjusted PAT, i.e., (C) = (A) - 50% of (B).
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s80391]
+F. Restriction on payment of dividend. 12. The Reserve Bank reserves the right to place restrictions on distribution of dividend where a bank is found to be non-compliant with the applicable laws, regulations / guidelines issued by the Reserve Bank. 13. If a bank does not meet the eligibility criteria as per paragraph 7 above, no special dispensation will be given for declaration of dividend for that period.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s82796]
+D. Profits ineligible for payment of dividend. 10. The following profits shall not be available for payment of dividend: (1) Any exceptional and / or extra-ordinary profits / income shall not be available for payment of dividend. (2) If the audit report by the statutory auditor contains a modified opinion that indicates an overstatement of the PAT, the same shall not be available for payment of dividend, to the extent it is included in PAT.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s86878]
+Illustration 2: Adjusted PAT i.e., (C): 38,000 crore. Tier 1 Capital ratio (D): 15%. The CET1 ratio falls in bucket B5. 75% of PAT (E): 30,375. Max payable as per Table 1 (50% of 38,000) (F): 19,000. Maximum Eligible Dividend (i.e., Lower of E or F): 19,000. Maximum Eligible Dividend as percentage of PAT: 46.91%.
+
+[RBI_Reserve_Ba_reserve_bank_of_india_small_finance_banks_prudential_no_099#s94130]
+These Directions shall be called the Reserve Bank of India (Small Finance Banks - Prudential Norms on Declaration of Dividend) Directions, 2026. These Directions shall come into effect from Financial Year (FY) 2026-27.

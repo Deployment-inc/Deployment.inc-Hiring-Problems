@@ -1,0 +1,140 @@
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s10786]
+No credit rating agency shall rate a security issued by its promoter. A credit rating agency which has a shareholding in the issuer of the security being rated, of more than ten per cent of the paid-up share capital of that issuer, shall not rate the security. A credit rating agency shall not employ a person who is a director or employee of the issuer whose security is being rated.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s11100]
+Regulation 28C: On and from the date of this regulation coming into force, no person shall act as an ESG rating provider unless it has obtained a certificate from the Board: Provided that a person acting as an ESG Rating Provider on the date of this regulation coming into force, may continue to do so for a period of six months from the date of this regulation coming into force or such other period as may be specified by the Board, or if it has made an application for grant of a certificate for registration within the specified period, till the disposal of such application.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s12698]
+Regulation 9(d): the credit rating agency shall at all times maintain a minimum net worth of rupees twenty five crore. Provided that a credit rating agency already registered with the Board having a net worth less than rupees twenty five crores, shall increase its net worth to the specified amount within a period of three years from the date of notification of the SEBI (CRA) (Amendment) Regulations, 2018.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s16304]
+Passage A:
+Regulation 16(3) (pre-2018): A credit rating agency shall not withdraw a rating so long as the obligations under the security rated by it are outstanding, except where the company whose security is rated is wound up or merged or amalgamated with another company.
+
+Passage B:
+Regulation 16(3) (as substituted w.e.f. 30-05-2018): A credit rating agency shall not withdraw a rating so long as the obligations under the security rated by it are outstanding, except where the company whose security is rated is wound up or merged or amalgamated with another company, or as may be specified by the Board from time to time.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s19969]
+Regulation 15(2): Every credit rating agency shall disseminate information regarding newly assigned ratings, and changes in earlier rating promptly through press releases and websites, and, in the case of securities issued by listed companies, such information shall also be provided simultaneously to the concerned regional stock exchange and to all the stock exchanges where the said securities are listed.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s24396]
+Passage A:
+Regulation 5(c) (original, pre-2018): the applicant has a minimum net worth of rupees five crores.
+
+Passage B:
+Regulation 5(c) (as substituted w.e.f. 30-05-2018): the applicant has a minimum net worth of rupees twenty five crore.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s24704]
+Regulation 15(1) (pre-2018): Every credit rating agency shall, during the lifetime of securities rated by it continuously monitor the rating of such securities. Regulation 15(1) (as substituted by SEBI (CRA) (Amendment) Regulations, 2018, w.e.f. 30-05-2018): Every credit rating agency shall, during the lifetime of securities rated by it continuously monitor the rating of such securities, unless the rating is withdrawn, subject to the provisions of regulation 16(3).
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s25383]
+Regulation 5(c) (original): the applicant has a minimum net worth of rupees five crores. [Substituted by SEBI (CRA) (Amendment) Regulations, 2018, w.e.f. 30-05-2018]: the applicant has a minimum net worth of rupees twenty five crore.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s26074]
+Regulation 9(e): the promoter of the credit rating agency, in terms of regulation 4, shall maintain a minimum shareholding of 26% in the credit rating agency for a minimum period of three years from the date of grant of registration by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s27714]
+Chapter IVA (ESG Rating Providers) inserted by SEBI (CRA) (Amendment) Regulations, 2023, w.e.f. 4.07.2023. Regulation 28C: no person shall act as an ESG rating provider unless it has obtained a certificate from the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s31067]
+Regulation 24(4): All rating decisions, including the decisions regarding changes in rating, shall be taken by the rating committee. (8) A credit rating agency shall not rate securities issued by it.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s31210]
+Regulation 27(1): No credit rating agency shall rate a security issued by an entity which is — (a) a borrower of its promoter; or (b) a subsidiary of its promoter; or (c) an associate of its promoter, if there are common Chairman, Directors between credit rating agency and these entities, or common employees, or common Chairman, Directors, Employees on the rating committee. (2) No credit rating agency shall rate a security issued by its associate or subsidiary, if the credit rating agency or its rating committee has a Chairman, director or employee who is also a Chairman, director or employee of any such entity.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s31932]
+Regulation 4: The Board shall not consider an application under regulation 3 unless the applicant is promoted by a person belonging to any of the following categories: (a) a public financial institution; (b) a scheduled commercial bank included in the second schedule to the RBI Act, 1934; (c) a foreign bank operating in India with the approval of the Reserve Bank of India; (d) a foreign credit rating agency incorporated in a Financial Action Task Force (FATF) member jurisdiction and recognised under their law, having a minimum of five years' experience in rating securities; (e) any company or body corporate having continuous net worth of minimum rupees one hundred crores as per audited annual accounts for the previous five years.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s32265]
+Regulation 9(d): the credit rating agency shall at all times maintain a minimum net worth of rupees twenty five crore. Provided that a credit rating agency already registered with the Board having a net worth less than rupees twenty five crores, shall increase its net worth to the specified amount within a period of three years from the date of notification of the Securities and Exchange Board of India (Credit Rating Agencies) (Amendment) Regulations, 2018.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s32543]
+Regulation 28E(n)(i): [Category II ESG rating provider] maintain minimum liquid net worth of rupees ten lakh at all times: at the time of making the application, the applicant shall have a minimum liquid net worth of the higher of, A. rupees twenty lakhs; or B. addition of rupees ten lakhs and the target on cumulative cash losses until breakeven.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s38711]
+Regulation 5(e): any company or body corporate, having continuous net worth of minimum rupees one hundred crores as per its audited annual accounts for the previous five years prior to filing of the application with the Board for the grant of certificate.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s41491]
+Regulation 2(h) — definition of 'credit rating agency' (pre-2021): rating of securities offered by way of public or rights issue. [Amended by SEBI (CRA) (Amendment) Regulations, 2021 w.e.f. 03-08-2021]: rating of securities that are listed or proposed to be listed on a stock exchange recognized by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s42433]
+Regulation 18: (1) Every credit rating agency — (a) shall make public the definitions of the concerned rating, along with the symbol and, (b) shall also state that the ratings do not constitute recommendations to buy, hold or sell any securities. (2) Every credit rating agency shall make available to the general public information relating to the rationale of the ratings, which shall cover an analysis of the various factors justifying a favourable assessment, as well as factors constituting a risk.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s43786]
+Passage A:
+Regulation 9(f) (pre-Second Amendment 2018): a credit rating agency shall not carry out any activity other than the rating of securities offered by way of public or rights issue. Provided that nothing in these regulations shall prohibit a credit rating agency from engaging in any other activity in so far as it may be required by a financial sector regulator.
+
+Passage B:
+Regulation 9(f) (as substituted w.e.f. 11-09-2018): a credit rating agency shall not carry out any activity other than the rating of securities that are listed or proposed to be listed on a stock exchange recognized by the Board. Nothing contained in these regulations shall preclude a credit rating agency from carrying out any other activity as may be specified by the Board or carrying out rating of financial instruments under the purview of any other financial sector regulator or authority as may be specified by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s44613]
+Regulation 24A(1): A credit rating agency shall not: (a) directly or indirectly, hold 10 per cent or more shareholding and/or voting rights in any other credit rating agency, or (b) have representation on the Board of any other credit rating agency. (2) A shareholder holding 10 per cent or more shares and/or voting rights in a credit rating agency shall not hold 10 per cent or more shares and/or voting rights, directly or indirectly, in any other credit rating agency. Provided that the said restriction shall not apply to holdings by Pension Funds, Insurance Schemes and Mutual Fund Schemes.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s47029]
+Regulation 8(2) (as amended by 2011 Amendment): certificate of initial registration valid for 5 years. Regulation 8A (inserted by 2011 Amendment): application for permanent registration to be made 3 months before expiry of initial certificate. [Regulation 8A omitted and Regulation 8(2) substituted by the Change in Conditions of Registration of Certain Intermediaries (Amendment) Regulations, 2016 w.e.f. 08-12-2016.] Current Regulation 8(2): valid unless suspended or cancelled.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s47726]
+Regulation 26(1): No credit rating agency shall rate a security issued by its promoter. (2) In case promoter is a lending institution, its Chairman, director or employee shall not be a Chairman, director or employee of credit rating agency or its rating committee.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s50212]
+Regulation 4(d): a foreign credit rating agency incorporated in a Financial Action Task Force (FATF) member jurisdiction and recognised under their law, having a minimum of five years' experience in rating securities.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s58400]
+Regulation 14: Every credit rating agency shall enter into a written agreement with each client whose securities it proposes to rate, and every such agreement shall include — (a) the rights and liabilities of each party; (b) the fee to be charged; (c) the client shall co-operate for periodic review; (d) the client shall provide true, adequate and timely information; (e) the CRA shall disclose the rating assigned to the client's securities irrespective of whether the rating is accepted by the client; (f) the client shall disclose all ratings assigned in the last three years and any unaccepted rating.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s58811]
+Regulation 14(g) (original): the client shall agree to obtain a rating from at least two different rating agencies for any issue of debt securities whose size is equal to or exceeds, rupees one hundred crores. [Substituted by SEBI (CRA) (Second Amendment) Regulations, 2011, w.e.f. 27-12-2011]: the client shall obtain a rating for any issue of debt securities in accordance with the relevant regulations.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s59100]
+Regulation 5(a)–(c): The Board shall not consider an application unless — (a) the applicant is set up and registered as a company under the Companies Act, 2013; (b) the applicant has, in its Memorandum of Association, specified rating activity as one of its main objects; (c) the applicant has a minimum net worth of rupees twenty five crore.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s61759]
+Regulation 28E(m)(iv): [Category I ESG rating provider] the applicant shall maintain a minimum liquid net worth of rupees five crores at all times: Provided that at the time of making the application, the applicant shall have a minimum liquid net worth of the higher of, A. rupees ten crores, or B. addition of rupees five crores and the target on cumulative cash losses until breakeven.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s64769]
+Passage A:
+Regulation 14(g) (original): the client shall agree to obtain a rating from at least two different rating agencies for any issue of debt securities whose size is equal to or exceeds, rupees one hundred crores.
+
+Passage B:
+Regulation 14(g) (as substituted w.e.f. 27-12-2011): the client shall obtain a rating for any issue of debt securities in accordance with the relevant regulations.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s65492]
+Regulation 28E(m)(iv): [Category I ESG rating provider] maintain a minimum liquid net worth of rupees five crores at all times: at the time of making the application, the applicant shall have a minimum liquid net worth of the higher of, A. rupees ten crores, or B. addition of rupees five crores and the target on cumulative cash losses until breakeven.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s66306]
+Passage A:
+Regulation 8(2) (pre-2016, as inserted by 2011 Amendment): The certificate of initial registration granted under sub-regulation (1) shall be valid for a period of five years from the date of its issue to the applicant.
+
+Passage B:
+Regulation 8(2) (as substituted w.e.f. 08-12-2016): The certificate of registration granted under sub-regulation (1) shall be valid unless it is suspended or cancelled by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s66930]
+Regulation 8(2): The certificate of registration granted under sub-regulation (1) shall be valid unless it is suspended or cancelled by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s72029]
+Regulation 22: Every credit rating agency shall, within two month's from the date of the auditor's report, take steps to rectify the deficiencies if any, made out in the auditor's report, insofar as they relate to the activity of rating of securities.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s78823]
+Regulation 24A(2): A shareholder holding 10 per cent or more shares and/or voting rights in a credit rating agency shall not hold 10 per cent or more shares and/or voting rights, directly or indirectly, in any other credit rating agency. Provided that the said restriction shall not apply to holdings by Pension Funds, Insurance Schemes and Mutual Fund Schemes.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s79100]
+Regulation 16(2): If the client does not co-operate with the credit rating agency so as to enable the credit rating agency to comply with its obligations under regulation 15, the credit rating agency shall carry out the review on the basis of the best available information or in the manner as specified by the Board from time to time. Provided that if owing to such lack of co-operation, a rating has been based on the best available information, the credit rating agency shall disclose to the investors the fact that the rating is so based. (3) A credit rating agency shall not withdraw a rating so long as the obligations under the security rated by it are outstanding, except where the company whose security is rated is wound up or merged or amalgamated with another company.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s84671]
+Regulation 5(l) (inserted by SEBI (CRA) (Amendment) Regulations, 2018, w.e.f. 30-05-2018): the promoter of the credit rating agency, in terms of regulation 4, has a minimum shareholding of 26% in the credit rating agency.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s88637]
+Passage A:
+Regulation 2(h) (pre-2021): 'credit rating agency' means a body corporate which is engaged in, or proposes to be engaged in, the business of rating of securities offered by way of public or rights issue.
+
+Passage B:
+Regulation 2(h) (as amended w.e.f. 03-08-2021): 'credit rating agency' means a body corporate which is engaged in, or proposes to be engaged in, the business of rating of securities that are listed or proposed to be listed on a stock exchange recognized by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s90187]
+Regulation 9(f): a credit rating agency shall not carry out any activity other than the rating of securities that are listed or proposed to be listed on a stock exchange recognized by the Board. Nothing contained in these regulations shall preclude a credit rating agency from carrying out any other activity as may be specified by the Board or carrying out rating of financial instruments under the purview of any other financial sector regulator or authority as may be specified by the Board.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s91874]
+Regulation 24A (inserted by SEBI (CRA) (Amendment) Regulations, 2018, w.e.f. 30-05-2018): cross-shareholding restrictions between CRAs. A CRA shall not directly or indirectly hold 10% or more shareholding in any other CRA, or have board representation in any other CRA.
+
+[SEBI_1999_securities_and_exchange_board_of_india_credit_rating_ag_085#s92858]
+Regulation 21(1): Every credit rating agency shall keep and maintain, for a minimum period of five years, the following books of accounts, records and documents: (a) copy of its balance sheet; (b) a copy of its profit and loss account; (c) a copy of the auditor's report; (d) a copy of the agreement entered into with each client; (e) information supplied by each client; (f) correspondence with each client; (g) ratings assigned, including upgradation and downgradation; (h) rating notes considered by the rating committee; (i) record of decisions of the rating committee; (j) letter assigning rating; (k) particulars of fees charged.

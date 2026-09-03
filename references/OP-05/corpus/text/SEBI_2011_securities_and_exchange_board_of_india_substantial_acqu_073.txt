@@ -1,0 +1,158 @@
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s01696]
+Passage A:
+Regulation 29(1): Any acquirer, together with persons acting in concert, acquiring shares or voting rights in a target company which taken together aggregates to five per cent or more of the shares of such target company, shall disclose their aggregate shareholding and voting rights.
+
+Passage B:
+Regulation 29(2): Any person who together with persons acting in concert holds shares or voting rights entitling them to five per cent or more shall disclose the change in shareholding or voting rights if such change exceeds two per cent of total shareholding or voting rights in the target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s02659]
+Passage A:
+Regulation 22(1): The acquirer shall not complete the acquisition of shares or voting rights in, or control over, the target company, whether by way of subscription to shares or a purchase of shares attracting the obligation to make an open offer, until the expiry of the offer period.
+
+Passage B:
+Regulation 22(2): Notwithstanding anything contained in sub-regulation (1), subject to the acquirer depositing in the escrow account cash of an amount equal to the entire consideration payable under the open offer assuming full acceptance, the parties may after the expiry of twenty-one working days from the date of detailed public statement, act upon the agreement and the acquirer may complete the acquisition.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s06233]
+Regulation 3(1): No acquirer shall acquire shares or voting rights in a target company which taken together with shares or voting rights held by him and by persons acting in concert entitle them to exercise twenty-five per cent or more of the voting rights in such target company unless the acquirer makes a public announcement of an open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s10235]
+Regulation 17(4): In the event of the escrow account being created by way of a bank guarantee or by deposit of securities, the acquirer shall also ensure that at least one per cent of the total consideration payable is deposited in cash with a scheduled commercial bank as a part of the escrow account.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s15371]
+Regulation 17(1) Escrow table: On the first five hundred crore rupees — 25% of the consideration; On the balance consideration — additional 10% of the balance consideration.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s18533]
+Regulation 7(1): The open offer for acquiring shares to be made by the acquirer and persons acting in concert under regulation 3 and regulation 4 shall be for at least twenty six per cent of total shares of the target company, as of tenth working day from the closure of the tendering period.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s18810]
+Regulation 8(10): Where the acquirer or persons acting in concert acquires shares of the target company during the period of twenty-six weeks after the tendering period at a price higher than the offer price under these regulations, the acquirer and persons acting in concert shall pay the difference between the highest acquisition price and the offer price, to all the shareholders whose shares were accepted in the open offer, within sixty days from the date of such acquisition.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s21175]
+A share shall be deemed to be frequently traded if the traded turnover on any stock exchange during the twelve calendar months preceding the calendar month in which the public announcement is required to be made under these regulations, is at least ten per cent of the total number of shares of such class of the target company. Where the acquirer or persons acting in concert with him acquires shares of the target company during the period of twenty-six weeks after the tendering period at a price higher than the offer price, the acquirer shall pay to all shareholders who accepted the open offer, the difference between the highest price paid during the twenty-six weeks period and the offer price.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s23696]
+Regulation 5(2): In case of an indirect acquisition where (a) the proportionate net asset value of the target company as a percentage of the consolidated NAV, (b) the proportionate sales turnover as a percentage of consolidated sales turnover, or (c) the proportionate market capitalisation as a percentage of enterprise value of the entity being acquired is in excess of eighty per cent, such indirect acquisition shall be regarded as a direct acquisition for all purposes including timing, pricing and compliance requirements.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s25111]
+Regulation 18(8): The tendering period shall start not later than twelve working days from date of receipt of comments from SEBI under Regulation 16(4) and shall remain open for ten working days.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s29874]
+Regulation 10(3): An increase in voting rights in a target company of any shareholder beyond the limit attracting an obligation to make an open offer under sub-regulation (1) of regulation 3, pursuant to buy-back of shares by the target company shall be exempt from the obligation to make an open offer provided such shareholder reduces his shareholding such that his voting rights fall to below the threshold referred to in sub-regulation (1) of regulation 3 within ninety days from the date of the closure of the said buy-back offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s30376]
+Regulation 10(1)(b)(viii): Invocation of pledge by Scheduled Commercial Banks or Public Financial Institutions as a pledgee was listed as an acquisition in the ordinary course of business exempt from open offer obligations. Regulation 29(4) proviso: the disclosure requirement on encumbrance does not apply to a scheduled commercial bank or public financial institution or a housing finance company or a systemically important non-banking financial company as pledgee. The housing finance company and SBNFC exemption was inserted by the Third Amendment Regulations, 2018, w.e.f. 31-12-2018.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s30478]
+No acquirer shall acquire shares or voting rights in a target company which taken together with shares or voting rights, if any, held by him and by persons acting in concert with him in such target company, entitle them to exercise twenty-five per cent or more of the voting rights in such target company unless the acquirer makes a public announcement of an open offer for acquiring shares of such target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s31297]
+Regulation 30 (continual disclosures) was omitted by the SEBI (SAST) (Second Amendment) Regulations, 2021, w.e.f. 1-4-2022. Prior to omission, Regulation 30 required every person holding 25%+ and all promoters to disclose their aggregate shareholding as of March 31 each year within 7 working days from year-end. Regulation 29(1) was also substituted by the same amendment, shifting from requiring disclosure only by the acquirer doing the acquisition to requiring disclosure by any acquirer (together with PAC) whose aggregate acquisition reaches 5% or more.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s39313]
+Passage A:
+Regulation 3(1): No acquirer shall acquire shares or voting rights in a target company which taken together entitle them to exercise twenty-five per cent or more of the voting rights in such target company unless the acquirer makes a public announcement of an open offer.
+
+Passage B:
+Regulation 3(5): For the purpose of this regulation, any reference to 'twenty-five per cent' in case of listed entity which has listed its specified securities on Innovators Growth Platform shall be read as 'forty-nine per cent'.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s40214]
+Regulation 18(4): Irrespective of whether a competing offer has been made, an acquirer may make upward revisions to the offer price at any time prior to the commencement of the last one working day before the commencement of the tendering period. Substituted by the SEBI (SAST) (Second Amendment) Regulations, 2018, w.e.f. 11-09-2018. Prior to its substitution, it read 'three working days'.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s48828]
+Regulation 4: Irrespective of acquisition or holding of shares or voting rights in a target company, no acquirer shall acquire, directly or indirectly, control over such target company unless the acquirer makes a public announcement of an open offer for acquiring shares of such target company in accordance with these regulations.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s52394]
+Regulation 8(8): Where the acquirer has acquired or agreed to acquire any shares or voting rights in the target company during the offer period at a price higher than the offer price, the offer price shall stand revised to the highest price paid or payable for any such acquisition. Provided that no such acquisition shall be made after the third working day prior to the commencement of the tendering period and until the expiry of the tendering period.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s52663]
+Regulation 3(2): No acquirer who together with persons acting in concert holds 25% or more but less than the maximum permissible non-public shareholding, shall acquire within any financial year additional shares or voting rights entitling them to exercise more than five per cent of the voting rights, unless an open offer is made.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s53048]
+These regulations shall come into force on the thirtieth day from the date of their publication in the Official Gazette and were published on 23rd September, 2011. The definition of 'Delisting Regulations' was inserted by the SEBI (Substantial Acquisition of Shares and Takeovers) (Third Amendment) Regulations, 2021, w.e.f. 6-12-2021. Previously, the regulations did not contain an explicit definition of 'Delisting Regulations' as a defined term.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s55853]
+Regulation 3(2): No acquirer who together with persons acting in concert has acquired and holds in accordance with these regulations shares or voting rights entitling them to exercise twenty-five per cent or more but less than the maximum permissible non-public shareholding, shall acquire within any financial year additional shares or voting rights entitling them to exercise more than five per cent of the voting rights, unless the acquirer makes a public announcement of an open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s57041]
+Regulation 22(2): Notwithstanding anything contained in sub-regulation (1), subject to the acquirer depositing in the escrow account cash of an amount equal to the entire consideration payable under the open offer assuming full acceptance of the open offer, the parties to such agreement may after the expiry of twenty-one working days from the date of detailed public statement, act upon the agreement and the acquirer may complete the acquisition.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s59074]
+Regulation 16(1) fee table: Up to ten crore rupees — Rs 5,00,000; More than ten crore rupees but not more than one thousand crore rupees — 0.5% of the offer size; More than one thousand crore rupees — Rs 5,00,00,000 plus 0.125% of the portion in excess of one thousand crore rupees.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s59535]
+Regulation 7(2): The open offer made under regulation 6 (voluntary offer) shall be for acquisition of at least such number of shares as would entitle the holder thereof to exercise an additional ten per cent of the voting rights in the target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s59815]
+Regulation 6(1): An acquirer who together with persons acting in concert holds shares or voting rights entitling them to exercise twenty-five per cent or more but less than the maximum permissible non-public shareholding, shall be entitled to voluntarily make a public announcement of an open offer for acquiring shares in accordance with these regulations, subject to their aggregate shareholding after completion of the open offer not exceeding the maximum permissible non-public shareholding.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s60914]
+Passage A:
+Regulation 7(1): The open offer for acquiring shares to be made by the acquirer and persons acting in concert under regulation 3 and regulation 4 shall be for at least twenty six per cent of total shares of the target company.
+
+Passage B:
+Regulation 7(2): The open offer made under regulation 6 (voluntary offer) shall be for acquisition of at least such number of shares as would entitle the holder thereof to exercise an additional ten per cent of the voting rights in the target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s62481]
+Regulation 12(1): Prior to making a public announcement, the acquirer shall appoint a merchant banker registered with the Board, who is not an associate of the acquirer, as the manager to the open offer. (2) The public announcement of the open offer shall be made by the acquirer through such manager to the open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s64163]
+Regulation 3(5): For the purpose of this regulation, any reference to 'twenty-five per cent' in case of listed entity which has listed its specified securities on Innovators Growth Platform shall be read as 'forty-nine per cent'. Inserted by the SEBI (Substantial Acquisition of Shares and Takeovers) (Amendment) Regulations, 2021, w.e.f. 05-05-2021. Regulation 1(3): The word 'institutional trading platform' was also substituted to 'Innovators Growth Platform' by the same 2021 amendment.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s71138]
+Passage A:
+Regulation 3(2): No acquirer who together with persons acting in concert holds 25% or more but less than the maximum permissible non-public shareholding shall acquire within any financial year additional shares or voting rights entitling them to exercise more than five per cent of the voting rights, unless an open offer is made.
+
+Passage B:
+Regulation 3(2) proviso (inserted by Amendment Regulations, 2020, w.e.f. 16-06-2020): Provided that the acquisition beyond five per cent but upto ten per cent of the voting rights in the target company shall be permitted for the financial year 2020-21 only in respect of acquisition by a promoter pursuant to preferential issue of equity shares by the target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s71705]
+Regulation 16(4): The Board shall give its comments on the draft letter of offer as expeditiously as possible but not later than fifteen working days of the receipt of the draft letter of offer and in the event of no comments being issued by the Board within such period, it shall be deemed that the Board does not have comments to offer. Provided that in the event the Board has sought clarifications or additional information, the period for issuance of comments shall be extended to the fifth working day from the date of receipt of satisfactory reply.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s72419]
+Regulation 7(1): The open offer for acquiring shares to be made under regulation 3 and regulation 4 shall be for at least twenty six per cent of total shares of the target company, as of tenth working day from the closure of the tendering period.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s75601]
+Regulation 8(10): Where the acquirer acquires shares during the period of twenty-six weeks after the tendering period at a price higher than the offer price, the acquirer shall pay the difference between the highest acquisition price and the offer price to all shareholders whose shares were accepted in the open offer, within sixty days from the date of such acquisition.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s76761]
+Regulation 26(2): During the offer period, unless the approval of shareholders of the target company by way of a special resolution by postal ballot is obtained, the board of directors of either the target company or any of its subsidiaries shall not: (a) alienate any material assets outside ordinary course of business; (b) effect any material borrowings outside ordinary course of business; (c) issue or allot any authorised but unissued securities entitling voting rights; (d) implement any buy-back or effect capital structure changes; (e) enter into, amend or terminate material contracts outside ordinary course; (f) accelerate any contingent vesting of rights including ESOPs.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s77934]
+Regulation 6(2): An acquirer and persons acting in concert who have made a public announcement under this regulation to acquire shares of a target company shall not be entitled to acquire any shares of the target company for a period of six months after completion of the open offer except pursuant to another voluntary open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s79136]
+Regulation 9(2): For purposes of payment by way of listed shares, the shares sought to be issued or exchanged shall conform to the following: (a) listed and frequently traded; (b) listed for at least two years preceding the date of public announcement; (c) issuer has redressed at least 95% of complaints received from investors in the preceding calendar quarter; (d) issuer has been in material compliance with listing regulations for at least two years immediately preceding the date of public announcement; (e) impact of auditors' qualifications does not exceed 5% of net profit or loss after tax for three immediately preceding financial years; (f) SEBI has not issued directions against the issuer restricting capital market access.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s79413]
+Regulation 17(10)(e): The escrow account deposited with the bank in cash shall be released to the entire amount to the manager to the open offer, in the event of forfeiture for non-fulfillment of any of the obligations under these regulations, for distribution in the following manner, after deduction of expenses of registered market intermediaries: (i) one third to the target company; (ii) one third to the Investor Protection and Education Fund; (iii) one third distributed pro-rata among the shareholders who have accepted the open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s83080]
+Passage A:
+Regulation 23(1): An open offer for acquiring shares once made shall not be withdrawn except: (a) statutory approvals having been finally refused; (b) the acquirer, being a natural person, has died; (c) any condition in the underlying agreement is not met for reasons outside the acquirer's reasonable control; or (d) such circumstances as in the opinion of the Board merit withdrawal.
+
+Passage B:
+Regulation 6A: No person who is a wilful defaulter shall make a public announcement of an open offer. Provided that this regulation shall not prohibit the wilful defaulter from making a competing offer upon any other person making an open offer.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s83839]
+Regulation 8(2)(e) prior to 2025: price for infrequently traded shares was determined by 'the acquirer and the manager to the open offer'. Substituted by the SEBI (SAST) (Amendment) Regulations, 2025, w.e.f. 03-01-2026, to require 'an independent registered valuer'. The same amendment also substituted similar references in Regulation 8(4) and Regulation 9(5). A 9-month transition period was provided for ongoing valuation assignments.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s84274]
+Regulation 29(1): Any acquirer, together with persons acting in concert with him acquiring shares or voting rights in a target company, which taken together aggregates to five per cent or more of the shares of such target company, shall disclose their aggregate shareholding and voting rights in such form as may be specified. (2) Any person who holds shares or voting rights entitling them to five per cent or more shall disclose the number held and change in shareholding or voting rights if such change exceeds two per cent of total shareholding or voting rights in the target company. (3) Such disclosures shall be made within two working days of the acquisition or disposal.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s87574]
+The SEBI Takeover Regulations 2011 came into force on the thirtieth day from the date of their publication on 23 September 2011. The phrase 'is required to be made under these regulations' in the definition of 'frequently traded shares' was substituted by the SEBI (Substantial Acquisition of Shares and Takeovers) (Second Amendment) Regulations, 2018, w.e.f. 11-09-2018. Prior to this amendment, the phrase read as 'is made'.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s87649]
+Regulation 31A (Regulatory Sandbox) was inserted by the SEBI (Regulatory Sandbox) (Amendment) Regulations, 2020, w.e.f. 17-04-2020. The regulation allows SEBI to exempt any person from the operation of all or any provisions of SEBI Takeovers Regulations for up to twelve months, for furthering innovation relating to testing new products, processes, services, business models in a live regulatory sandbox environment.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s88052]
+Regulation 6A: Notwithstanding anything contained in these regulations, no person who is a wilful defaulter shall make a public announcement of an open offer for acquiring shares or enter into any transaction that would attract the obligation to make a public announcement of an open offer for acquiring shares under these regulations. Provided that this regulation shall not prohibit the wilful defaulter from making a competing offer upon any other person making an open offer for acquiring shares of the target company.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s89882]
+Regulation 6A was inserted by the SEBI (Substantial Acquisition of Shares and Takeovers) (Second Amendment) Regulations, 2016, w.e.f. 25-05-2016. Regulation 6B was inserted by the SEBI (Substantial Acquisition of Shares and Takeovers) (Second Amendment) Regulations, 2018, w.e.f. 11-09-2018.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s94103]
+No acquirer, who together with persons acting in concert with him, has acquired and holds shares or voting rights entitling him to exercise twenty-five per cent or more but less than the maximum permissible non-public shareholding in the target company, shall acquire within any financial year additional shares or voting rights in such target company entitling them to exercise more than five per cent of the voting rights, unless the acquirer makes a public announcement of an open offer for acquiring shares.
+
+[SEBI_2011_securities_and_exchange_board_of_india_substantial_acqu_073#s94230]
+Regulation 5A was substituted by the SEBI (SAST) (Third Amendment) Regulations, 2021, w.e.f. 6-12-2021. The original Regulation 5A (inserted by the SEBI (Listing of Specified Securities on Institutional Trading Platform) Regulations, 2013) read: 'The acquirer may delist the company in accordance with the Securities and Exchange Board of India (Delisting of Equity Shares) Regulations, 2009.' The new Regulation 5A provides a detailed delisting offer framework referencing the Delisting Regulations, 2021 and includes a two-attempt structure.

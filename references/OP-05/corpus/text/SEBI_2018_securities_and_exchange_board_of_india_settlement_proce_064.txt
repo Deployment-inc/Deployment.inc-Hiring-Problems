@@ -1,0 +1,8 @@
+[SEBI_2018_securities_and_exchange_board_of_india_settlement_proce_064#s60150]
+An application in respect of any specified proceeding pending before the Board shall not be considered if it is made after sixty days from the date of service of the notice to show cause. Where the application is filed after sixty calendar days from the expiry of the period specified in sub-regulation (1), the settlement amount determined in accordance with Schedule-II shall be increased. No such delayed application shall be considered if the application is filed after one hundred and twenty calendar days from the expiry of the sixty-day period.
+
+[SEBI_2018_securities_and_exchange_board_of_india_settlement_proce_064#s77379]
+An applicant who withdraws an application under sub-regulation (1) shall not be permitted to make another application in respect of the same default: Provided that in a case where an application was earlier rejected by the Board on the ground that the applicant did not remit the settlement amount within the period specified, such an application may be considered subject to an increase of atleast fifty percent over the settlement amount determined in accordance with Schedule-II of these Regulations.
+
+[SEBI_2018_securities_and_exchange_board_of_india_settlement_proce_064#s90304]
+An application in respect of any specified proceeding pending before the Board shall not be considered if it is made after sixty days from the date of service of the notice to show cause issued for initiation of such proceeding. Provided that no such delayed application shall be considered if the application is filed after one hundred and twenty calendar days from the expiry of the period specified in sub-regulation (1) or after the first hearing, whichever is earlier.

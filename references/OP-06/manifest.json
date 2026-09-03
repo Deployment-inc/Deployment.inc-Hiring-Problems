@@ -1,0 +1,37 @@
+{
+  "problem": "OP-06",
+  "seed": 20260915,
+  "source": {
+    "dataset": "asappresearch/abcd (ABCD v1.1)",
+    "licence": "MIT (asappresearch/abcd)",
+    "files": {
+      "abcd_v1.1.json.gz": {
+        "url": "https://github.com/asappresearch/abcd/raw/master/data/abcd_v1.1.json.gz",
+        "sha256": "2bdf53ac359543dcdc38d55bc6513e78df120363f8f44870716e909f4606de15"
+      },
+      "guidelines.json": {
+        "url": "https://github.com/asappresearch/abcd/raw/master/data/guidelines.json",
+        "sha256": "9264557941df24fe075138a632a2345172971573124a354ccb2ceee2a12e4c2a"
+      }
+    },
+    "conversations": {
+      "train": 8034,
+      "dev": 1004,
+      "test": 1004
+    }
+  },
+  "unit": "one action-taking turn: the dialogue so far, and the action the agent took next",
+  "max_context_turns": 8,
+  "counts": {
+    "train": 20000,
+    "dev": 2000,
+    "dev_noisy": 300,
+    "hostile": 9,
+    "heldout_not_published": 2000,
+    "distinct_intents_dev": 93,
+    "distinct_actions_dev": 30,
+    "flows": 10
+  },
+  "most_common_action_share_dev": 0.196,
+  "actions_outside_the_written_policy_dev": 178
+}

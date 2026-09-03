@@ -1,0 +1,5 @@
+# USD per million uncached text tokens, verified 6 September for the 7 September launch.
+# Match the returned model identifier exactly. Unknown models stay unpriced (null), never free.
+# Supply --prices with a verified, exact-id table for any other allowed budget model.
+gpt-4.1-mini-2025-04-14: {input: 0.40, output: 1.60}
+gpt-5-mini-2025-08-07: {input: 0.25, output: 2.00}

@@ -1,0 +1,16 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "OP-06 triage response",
+  "description": "One response per input row. Extra keys are tolerated; cost_usd and latency_ms, if supplied, are descriptive claims and require independent runtime measurement.",
+  "type": "object",
+  "required": ["id", "intent", "action", "confidence", "needs_human"],
+  "properties": {
+    "id": {"type": "string", "description": "The input row's id, echoed back."},
+    "intent": {"type": "string", "description": "The ABCD subflow."},
+    "action": {"type": "string", "description": "The next action, or 'none' when no action is permitted."},
+    "confidence": {"type": "number", "minimum": 0.0, "maximum": 1.0},
+    "needs_human": {"type": "boolean", "description": "Route to a person rather than act."},
+    "cost_usd": {"type": "number", "minimum": 0.0},
+    "latency_ms": {"type": "number", "minimum": 0.0}
+  }
+}
