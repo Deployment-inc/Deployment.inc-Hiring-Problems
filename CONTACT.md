@@ -3,9 +3,9 @@
 **Submissions are open, 7 September–7 December 2026, closing at 23:59 IST.**
 
 Submit through the [Deployment.inc hiring challenge form](https://deployment.inc/hiring-challenges/#submit).
-Add your name, email, phone, optional LinkedIn profile, short introduction, selected problem,
-private repository URL and full 40-character commit SHA. Attach `submission.yaml` following
-[SUBMISSION_SCHEMA.md](SUBMISSION_SCHEMA.md). Its problem, repository and commit must match the form.
+Add your name, email, phone, selected problem, private repository URL and a few lines on your
+approach. Attach `submission.yaml` following [SUBMISSION_SCHEMA.md](SUBMISSION_SCHEMA.md); it carries
+the full 40-character commit SHA we evaluate, and its problem and repository must match the form.
 
 Create a separate **private** solution repository and invite
 [aayush-deployment-inc](https://github.com/aayush-deployment-inc). Share repository and artifact
@@ -19,6 +19,6 @@ not qualification or accepted GitHub access. A reviewer confirms access by email
 working days. Repository invitations and engineering review are not automatically approved.
 
 For questions, updates, withdrawals or privacy requests, email
-[contact@deployment.inc](mailto:contact@deployment.inc). Include your submission ID when available.
+[hiring@deployment.inc](mailto:hiring@deployment.inc). Include your submission ID when available.
 To resubmit, send a new form entry with the updated YAML and SHA, then email your old and new IDs
 so the reviewer can replace the active entry. See [PRIVACY.md](PRIVACY.md) for data use and retention.

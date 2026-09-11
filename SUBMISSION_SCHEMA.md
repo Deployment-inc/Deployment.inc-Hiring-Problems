@@ -1,9 +1,9 @@
 # Submission format — revision 4
 
-Upload `submission.yaml` (UTF-8, at most 64 KB) through the [private submission form](https://deployment.inc/hiring-challenges/#submit), never by public PR. The problem, repository URL and commit SHA must match the form fields.
+Upload `submission.yaml` (UTF-8, at most 64 KB) through the [private submission form](https://deployment.inc/hiring-challenges/#submit), never by public PR. The problem and repository URL must match the form fields; the commit SHA lives only here, in `commit`.
 It points to an exact, clean commit in your separate private solution repository. Keep the YAML
 outside that commit if necessary to avoid a self-referencing SHA. Updating your repository alone
-does not change the evaluated SHA. For an update, send a new form entry and email contact@deployment.inc with your old and new submission IDs. See [CONTACT.md](CONTACT.md).
+does not change the evaluated SHA. For an update, send a new form entry and email hiring@deployment.inc with your old and new submission IDs. See [CONTACT.md](CONTACT.md).
 
 `repo_visibility` must be `private` and `leaderboard` must be `false`. The reviewer independently
 checks repository and artifact access; a declaration alone does not verify privacy. No candidate
